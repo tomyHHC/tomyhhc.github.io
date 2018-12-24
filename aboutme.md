@@ -16,4 +16,10 @@ My goals are to be a/an:
 - Extraordinary Computer Programmer
 - Incredible White Hacker
 
-Welcome to contact me anytime. Nice to meet u~XDDD
+I have a wonder family~
+![黃家庭](/assets/about-family.jpg)
+and a sweet baby~
+![寶貝](/assets/about-astrid.jpg)
+
+Nice to meet u~hope you enjoy my stories~XDDD
+
