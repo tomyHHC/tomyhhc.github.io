@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tomy's Blog</title>
+    <title>Tomy の 英雄伝記</title>
     <description>A cool handsome Taiwanese guy!</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
@@ -9,23 +9,12 @@
       <item>
         <title>Taiwan Awesome Ghicken</title>
         <description>
-          
-          First Taiwanese Fried Ghicken Restaurant in Utah Are you looking for the best Taiwanese food in Utah? Here we are! HOME ORDER PHOTO ABOUT CONTACT EAT AWESOME, FEEL AWESOME Taiwan Awesome Ghicken Are you looking for the best Taiwanese food in Utah?  Here we are! WELCOME TO Taiwan Awesome Ghicken FIRST Taiwanese...
+          EAT AWESOME, FEEL AWESOME - 
+          First Taiwanese Fried Ghicken Restaurant in Utah Are you looking for the best Taiwanese food in Utah? Here we are! Taiwan Awesome Ghicken Are you looking for the best Taiwanese food in Utah?  Here we are! WELCOME TO Taiwan Awesome Ghicken FIRST Taiwanese Fried Ghicken Restaurant in Utah Here are the services...
         </description>
-        <pubDate>Thu, 20 Dec 2018 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/Taiwan-Awesome-Ghicken</link>
         <guid isPermaLink="true">http://localhost:4000/Taiwan-Awesome-Ghicken</guid>
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>
-          
-          You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...
-        </description>
-        <pubDate>Tue, 18 Dec 2018 17:34:44 -0800</pubDate>
-        <link>http://localhost:4000/intro-Jekyll</link>
-        <guid isPermaLink="true">http://localhost:4000/intro-Jekyll</guid>
       </item>
     
   </channel>

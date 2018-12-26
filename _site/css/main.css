@@ -264,6 +264,9 @@ footer {
   font-size: 14px;
   background-color: #F5F5F5;
   
+  background-image: url(/assets/cover.jpg);
+  background-attachment: fixed;
+  
 }
 
 footer p.text-muted {

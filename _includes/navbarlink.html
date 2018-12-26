@@ -8,9 +8,25 @@
 {% endif %}
 
 {% if internal %}
+{% if page.ID == "TAG" %}
+  {% if include.link[1] == "home" %}
+  {% capture linkurl %}{{ site.baseurl }}/Taiwan-Awesome-Ghicken{% endcapture %}
+  {% else %}
+  {% capture linkurl %}{{ site.baseurl }}/tag/{{ include.link[1] }}{% endcapture %}
+  {% endif %}
+{% else %}
   {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}{% endcapture %}
+{% endif %}
+{% else %}
+{% if page.ID == "TAG" %}
+  {% if include.link[1] == "home" %}
+  {% capture linkurl %}/Taiwan-Awesome-Ghicken{% endcapture %}
+  {% else %}
+  {% capture linkurl %}/tag/{{ include.link[1] }}{% endcapture %}
+  {% endif %}
 {% else %}
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
+{% endif %}
 {% endif %}
 
 <a href="{{ linkurl }}">{{ include.link[0] }}</a>

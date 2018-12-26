@@ -5,8 +5,10 @@ layout: base
 {% include header.html type="post" %}
 
 <div class="container">
-<!--  <div class="row">-->
-<!--    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">-->
+{% if page.ID != "TAG" %}
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+{% endif %}
 
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
@@ -71,6 +73,9 @@ layout: base
         </div>
           {% include fb-comment.html %}
       {% endif %}
-<!--    </div>-->
-<!--  </div>-->
+      
+{% if page.ID != "TAG" %}
+    </div>
+  </div>
+{% endif %}
 </div>

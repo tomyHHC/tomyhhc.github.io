@@ -1,7 +1,16 @@
 ---
 layout: post
 title:  "Taiwan Awesome Ghicken"
-categories: tag
+subtitle: "EAT AWESOME, FEEL AWESOME"
+ID: "TAG"
+navbar-links:
+  Home: home
+  About: about
+  Photo: photo
+  Contact: contact
+tag-network-links:
+  facebook: "TaiwanAwesomeGhicken"
+  yelp: ""
 permalink: /Taiwan-Awesome-Ghicken
 tags: [tag, fried ghicken, taiwan]
 bigimg: /assets/TAG/tag_cover.jpeg
@@ -21,14 +30,6 @@ image: /assets/logo/TAG_Logo.png
     <img src="/assets//TAG/tag_cover.jpeg">
 </div>
 <!--![TAG cover](/assets//TAG/tag_cover.jpeg)-->
-
- <a href="/">HOME</a>
-<a href="/order">ORDER</a>
-<a href="/photo">PHOTO</a>
-<a href="/about">ABOUT</a>
-<a href="/contact">CONTACT</a>
-
-`EAT AWESOME, FEEL AWESOME`
 
 
 <div><span style="font-size:48px;"><strong><span style="font-family:dancing script bold;">Taiwan Awesome Ghicken</span></strong></span></div>

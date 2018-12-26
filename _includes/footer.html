@@ -3,6 +3,26 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
+          {% if page.ID == "TAG" %}
+          {%- for link in page.tag-network-links -%}
+          {%- assign curkey = link[0] -%}
+          {%- assign element = site.data.SocialNetworks[curkey] -%}
+          <li>
+              {%- if curkey == 'yelp' -%}
+              <a href="https://yelp.to/qTKq/fz3RrOr9XS" title="{{ element.name }}">
+              {%- else -%}
+              <a href="{{element.baseURL}}{{ page.tag-network-links[curkey] }}" title="{{ element.name }}">
+              {%- endif -%}
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">{{ element.name }}</span>
+              </a>
+          </li>
+          {%- endfor -%}
+          
+          {% else %}
           {%- for link in site.social-network-links -%}
             {%- assign curkey = link[0] -%}
             {%- assign element = site.data.SocialNetworks[curkey] -%}
@@ -26,7 +46,16 @@
               </a>
             </li>
           {%- endfor -%}
+          {% endif %}
         </ul>
+        
+        <!--  TAG Page    -->
+      {% if page.ID == "TAG" %}
+      <p class="copyright text-muted">
+      © 2019 Tawian Awesome Ghicken All Rights Reserved.
+      </p>
+      
+      {% else %}
       <p class="copyright text-muted">
       {{ site.author.name }}
       &nbsp;&bull;&nbsp;
@@ -44,11 +73,12 @@
         {% endif %}
       {% endif%}
       </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
+    <!-- Please don't remove this, keep my open source work credited :) -->
     <p class="theme-by text-muted">
       Theme by
       <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
     </p>
+    {% endif %}
       </div>
     </div>
   </div>

@@ -24,6 +24,15 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {% if page.ID == "TAG" %}
+        <div class="page-heading">
+          <h1  style="font-size: 48px;">{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          {% if page.subtitle %}
+          <hr class="small">
+          <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+          {% endif %}
+          
+        {% else %}
         <div class="{{ include.type }}-heading">
           <h1  style="font-size: 48px;">{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
@@ -37,7 +46,8 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
+          {% endif %}
+        {% endif %}
         </div>
       </div>
     </div>
@@ -61,8 +71,10 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-<!--          <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>-->
+          {% if page.ID != "TAG" %}
+          <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
+          {% endif %}
         </div>
       </div>
     </div>

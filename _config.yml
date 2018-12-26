@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tomy's Blog
+title: Tomy の 英雄伝記
 
 # Short description of your site
 description: A cool handsome Taiwanese guy!
@@ -58,8 +58,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/assets/logo/TAG_Logo.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/assets/logo/TAG_Logo.png"
+footer-img: "/assets/cover.jpg"
+# page-img: "/assets/cover.jpg"
 
 # --- Footer options --- #
 
@@ -92,12 +92,15 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 
+# Taiwan Awesome Ghicken
+
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
   google: false
   linkedin: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -147,7 +150,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Utah"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -243,6 +246,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
