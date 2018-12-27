@@ -20,8 +20,16 @@ My goals are to be a/an:
 I have a wonder family~ :kissing_heart:
 ![黃家庭](/assets/about-family.jpg)
 and a sweet baby~ :heart_eyes:
-<img id="baby" src="{{ site.url }}/assets/about-astrid.JPG" alt="My babe">
-<!--![寶貝](/assets/about-astrid.JPG)-->
+
+<div id="babe-img">
+    <img src="{{ site.url }}/assets/my-love.jpg" alt="My beloved babe">
+    <img id="baby" src="{{ site.url }}/assets/about-astrid.JPG" alt="My babe">
+</div>
+
+<div id="two-heart" style="display: none;">
+<div class='left-heart heart animated css'></div> 
+<div class='right-heart heart animated css'></div> 
+</div>
 
 Nice to meet u~hope you enjoy my stories~ :wink: :satisfied:
 

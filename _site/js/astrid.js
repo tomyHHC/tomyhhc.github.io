@@ -42,12 +42,13 @@ document.addEventListener('keydown', function(e) {
 
 function showMyLove() {
   var audio = new Audio('../assets/audios/love-u-baby.m4a');
+  var img = document.getElementById("baby");
+  var imgSec = document.getElementById("babe-img");
   $([document.documentElement, document.body]).animate({
-  scrollTop: $("#baby").offset().top}, 1500, function() {
-    document.getElementById("baby").src="../assets/my-love.jpg";
-    alert("我最親愛的小寶貝～I love you!")
+  scrollTop: ($("#babe-img").offset().top - 250)}, 1500, function() {
     audio.play();
+    img.style.opacity = 0;
+    document.getElementById("two-heart").style.display = "block";
+//    alert("我最親愛的小寶貝～I love you!")
   });
-//  $("#baby").backgroundImage = "url('../assets/my-love.jpg')";
-//    alert("我最親愛的小寶貝～I love you!");
 }

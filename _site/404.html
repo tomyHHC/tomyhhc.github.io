@@ -62,13 +62,12 @@
 
    
   <meta property="og:description" content="
-
-
-
-  Whoops, this page doesn't exist.
-
-  
-  
+    Whoops, this page doesn't exist.
+    
+    
+    
+        
+        
 
 ">
   
@@ -97,13 +96,12 @@
 
   
   <meta name="twitter:description" content="
-
-
-
-  Whoops, this page doesn't exist.
-
-  
-  
+    Whoops, this page doesn't exist.
+    
+    
+    
+        
+        
 
 ">
   
@@ -204,21 +202,21 @@
     <div class="intro-header"></div>
 
 <div role="main" class="container">
-  <script type="text/javascript">
-    var randomIndex = Math.floor(Math.random() * 2 + 1);
-    if (randomIndex == 1) {
-        document.getElementById("img-error").src="/assets/404Fun.png";
-    } else {
-        document.getElementById("img-error").src="/assets/404Pixar.png";
-    }
-</script>
-
-
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-<!--  <h1>Move along. (404 error)</h1>-->
-  <br/>
-  <img id="img-error" src="/assets/404Fun.png" alt="404 Error">
+  <div class="text-center">
+    <h1>Whoops, this page doesn't exist.</h1>
+    <!--  <h1>Move along. (404 error)</h1>-->
+    <br/>
+    <img id="img-error" src="" alt="404 Error">
+        <!--      src="/assets/404Fun.png"-->
+        <script type="text/javascript">
+            var randomIndex = Math.floor(Math.random() * 2 + 1);
+            var image = document.getElementById("img-error");
+            if (randomIndex == 1) {
+                image.src="/assets/404Fun.png";
+            } else {
+                image.src="/assets/404Pixar.png";
+            }
+        </script>
 </div>
 
 </div>
