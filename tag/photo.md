@@ -17,6 +17,7 @@ image: /assets/logo/TAG_Logo.png
 ---
 
 <div class="collector">
+
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}/assets/TAG/tag_cover.jpg">
@@ -61,4 +62,5 @@ image: /assets/logo/TAG_Logo.png
 <div class="desc">Mormon Bubble Milk Tea</div>
 </div>
 </div>
+
 </div>

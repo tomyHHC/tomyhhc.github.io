@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-#bigimg: /assets/legend-cover.jpg
+bigimg: /assets/one-piece.jpg
 ---
 
 Thank you for spending time and visiting my web. Welcome to contact me anytime! And hope we have a chance to get to know each other better! Here are the ways that you can reach out to me, or you can find the social icons at the botton of each page. :smiley:

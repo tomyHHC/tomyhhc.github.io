@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Freaking Awesome
-bigimg: /assets/legend-cover.jpg
+bigimg: /assets/goku-last-skill-dragon-balls.jpg    #legend-cover.jpg
 ---
 
 My name is Hsiang Chi Huang. If it's hard for you to remember, just call me Tomy. I'm major in Computer Science and minor in Business at BYU-Provo.  I'm a cool Taiwanese guy who is and will influence the world! :smile:

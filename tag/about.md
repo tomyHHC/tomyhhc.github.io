@@ -12,7 +12,7 @@ tag-network-links:
   email: tomy830710@gmail.com
 title: About TAG
 subtitle: Freaking Awesome
-bigimg: /assets/legend-cover.jpg
+bigimg: /assets/TAG/Taiwan_Awesome_Ghicken.jpg
 image: /assets/logo/TAG_Logo.png
 ---
 

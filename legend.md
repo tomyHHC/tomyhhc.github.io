@@ -3,7 +3,7 @@ layout: page
 #layout: default
 title: Legend
 permalink: /legend
-bigimg: /assets/legend-cover.jpg
+bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 ---
 <div style="text-align: center;">
 <div style="font-size: 40px;">Tomy Hsiang Chi Huang</div>
