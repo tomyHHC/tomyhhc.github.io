@@ -965,6 +965,35 @@ div.gallery img {
     100% { -o-transform: scale(1); }
 }
 
+@media only screen and (max-width: 768px) {
+    #babe-img {
+        margin-bottom: 550px;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    #babe-img {
+        margin-bottom: 480px;
+    }
+}
+
+/* Smartphone Portrait and Landscape */ 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    #babe-img {
+        margin-bottom: 360px;
+    }
+    
+    .left-heart {
+        top: 45%;
+        left: 0%;
+    }
+    
+    .right-heart {
+        top: 45%;
+        right: 0%;
+    }
+}
+
 /*@font-face {*/
 /*    font-family: "font2";*/
 /*    src: url("{{ site.url }}/assets/fonts/font2.tff");*/

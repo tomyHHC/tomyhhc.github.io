@@ -1,16 +1,18 @@
 
 // a key map of allowed keys
 var allowedKeys = {
-  65: 'a',
-  83: 's',
-  84: 't',
-  82: 'r',
   73: 'i',
-  68: 'd'
+  76: 'l',
+  79: 'o',
+  86: 'v',
+  69: 'e',
+  84: 't',
+  77: 'm',
+  89: 'y'
 };
 
 // the 'official' Konami Code sequence
-var konamiCode = ['a', 's', 't', 'r', 'i', 'd'];
+var konamiCode = ['i', 'l', 'o', 'v', 'e', 't', 'o', 'm', 'y'];
 
 // a variable to remember the 'position' the user has reached so far.
 var konamiCodePosition = 0;
@@ -50,5 +52,21 @@ function showMyLove() {
     img.style.opacity = 0;
     document.getElementById("two-heart").style.display = "block";
 //    alert("我最親愛的小寶貝～I love you!")
+    setTimeout(hideHeart, 4300);
   });
+}
+
+function hideHeart() {
+    document.getElementById("two-heart").style.display = "none";
+}
+
+function secretTalk() {
+    var secretKey = prompt("愛之通關密語！？", "");
+    if (secretKey == "ilovetomy") {
+        showMyLove();
+    } else if (secretKey == null || secretKey == "") {
+        // cancel, and do nothing
+    } else {
+        alert("不對唷...再想想~~~^^");
+    }
 }

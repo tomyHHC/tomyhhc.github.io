@@ -23,7 +23,7 @@ and a sweet baby~ :heart_eyes:
 
 <div id="babe-img">
     <img src="{{ site.url }}/assets/my-love.jpg" alt="My beloved babe">
-    <img id="baby" src="{{ site.url }}/assets/about-astrid.JPG" alt="My babe">
+    <img id="baby" onclick="secretTalk()" src="{{ site.url }}/assets/about-astrid.JPG" alt="My babe">
 </div>
 
 <div id="two-heart" style="display: none;">
