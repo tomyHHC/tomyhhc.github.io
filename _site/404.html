@@ -62,10 +62,12 @@
 
    
   <meta property="og:description" content="
-  Whoops, this page doesn't exist.
-  Move along. (404 error)
-  
 
+
+
+  Whoops, this page doesn't exist.
+
+  
   
 
 ">
@@ -95,10 +97,12 @@
 
   
   <meta name="twitter:description" content="
-  Whoops, this page doesn't exist.
-  Move along. (404 error)
-  
 
+
+
+  Whoops, this page doesn't exist.
+
+  
   
 
 ">
@@ -200,12 +204,21 @@
     <div class="intro-header"></div>
 
 <div role="main" class="container">
-  <div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
+  <script type="text/javascript">
+    var randomIndex = Math.floor(Math.random() * 2 + 1);
+    if (randomIndex == 1) {
+        document.getElementById("img-error").src="/assets/404Fun.png";
+    } else {
+        document.getElementById("img-error").src="/assets/404Pixar.png";
+    }
+</script>
 
-  <img src="/img/404-southpark.jpg" />
+
+<div class="text-center">
+  <h1>Whoops, this page doesn't exist.</h1>
+<!--  <h1>Move along. (404 error)</h1>-->
+  <br/>
+  <img id="img-error" src="/assets/404Fun.png" alt="404 Error">
 </div>
 
 </div>
