@@ -773,3 +773,52 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/* TAG */
+
+.home-cover-title-font {
+    position: absolute;
+    width: 30%;
+    margin: 25px 0 0 360px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 30px;
+}
+
+.contact-box {
+    padding: 10px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 0.5px solid;
+    border-radius: 25px;
+}
+
+/* Photo Gallery  */
+
+.collector {
+    margin-top: 30px;
+}
+
+.responsive {
+    padding: 0 20px 30px;
+    float: left;
+    width: 24.9999%
+}
+
+div.gallery {
+    border: 1px solid #ccc;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+/*@font-face {*/
+/*    font-family: "font2";*/
+/*    src: url("http://localhost:4000/assets/fonts/font2.tff");*/
+/*}*/

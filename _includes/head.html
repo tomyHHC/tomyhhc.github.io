@@ -5,6 +5,9 @@
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+  {% if page.ID == "TAG" %}
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/logo/TAG_Logo.png">
+  {% endif %}
   <meta name="author" content="{{ site.author.name }}" />
 
   {% if page.subtitle %}

@@ -9,17 +9,20 @@ navbar-links:
 tag-network-links:
   facebook: "TaiwanAwesomeGhicken"
   yelp: ""
+  email: tomy830710@gmail.com
 title: Contact
 #bigimg: /assets/legend-cover.jpg
 image: /assets/logo/TAG_Logo.png
 ---
 
- :smiley:
+<div class="contact-box">
+ “We are here 24/7 to answer your questions and handle any queries you have. We look forward to hearing from you and aim to reply within 24 hours.” :smiley:
+</div>
+---
 
-<!--* Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)-->
-<!--* Facebook: [https://www.facebook.com/tomyhhc](https://www.facebook.com/tomyhhc)-->
-<!--* Linkedin: [https://www.linkedin.com/in/tomyh/](https://www.linkedin.com/in/tomyh/)-->
-<!---->
-<!--![黃上](/assets/kingTomy.JPG)-->
+* Email: [Owner Tomy](mailto:tomy830710@gmail.com)
+* Phone: 385-250-9880
+* Facebook: [Taiwan Awesome Ghicken](https://www.facebook.com/TaiwanAwesomeGhicken)
+* Yelp: [Taiwan Awesome Ghicken](https://yelp.to/qTKq/fz3RrOr9XS)
 
 Have a good day~ :wink: :smile: 
