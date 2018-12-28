@@ -15,7 +15,7 @@ title: Contact
 image: /assets/logo/TAG_Logo.png
 ---
 
-<div class="contact-box" style="height: 380px;">
+<div class="contact-box" id="tag-contact-box">
   <div>“We are here 24/7 to answer your questions and handle any queries you have. We   look forward to hearing from you and aim to reply within 24 hours.” :smiley: </div>
    <hr>
    <form id="info-form" action="https://formspree.io/tomy830710@gmail.com" method="POST">

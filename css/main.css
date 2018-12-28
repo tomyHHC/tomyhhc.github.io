@@ -823,6 +823,10 @@ td.gutter {
     transition:height 0.4s ease-in-out;
 }
 
+#tag-contact-box {
+    height: 380px;
+}
+
 .contact-box form {
     margin-left: 30%;
 }
@@ -1015,6 +1019,10 @@ div.gallery img {
 }
 
 @media only screen and (max-width: 768px) {
+    #tag-contact-box {
+        height: 420px;
+    }
+    
     #babe-img {
         margin-bottom: 550px;
     }
@@ -1070,6 +1078,10 @@ div.gallery img {
 
 /* Smartphone Portrait and Landscape */ 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    #tag-contact-box {
+        height: 450px;
+    }
+    
     .contact-box form {
         margin-left: 20%;
     }
@@ -1079,7 +1091,8 @@ div.gallery img {
     }
     
     .contact-box form #info-msg {
-        width: 58%;
+        width: 68%;
+        padding: 0;
     }
     
     #babe-img {
