@@ -803,10 +803,59 @@ td.gutter {
 }
 
 .contact-box {
-    padding: 10px;
+    margin: auto;
+/*    width: 50%;*/
+    height: 300px;
+    padding: 20px;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border: 0.5px solid;
     border-radius: 25px;
+    transition:height 0.4s ease-in-out;
+}
+
+.contact-box form {
+    margin-left: 30%;
+}
+
+.contact-box form input {
+    margin-top: 5px;
+    border:none;
+    border-bottom:1px solid #ccc;
+    transition:width 0.4s ease-in-out;
+    width: 40%
+}
+
+.contact-box form input:focus {
+    width:50%;
+}
+
+.contact-box form #info-msg {
+    margin-top: 5px;
+    border-bottom: none;
+    border-style: groove;
+    width: 52%;
+    height: 100px;
+}
+
+.contact-box form #info-msg:focus {
+    width: 52%;
+}
+
+
+.contact-box form #info-button {
+    margin-top: 3%;
+    margin-left: 20%;
+    width: 63px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 0 3px 6px #648;
+    border: none;
+}
+
+.contact-box form #info-button:hover{
+    background-color: #494949;
 }
 
 /* Photo Gallery  */
@@ -959,16 +1008,70 @@ div.gallery img {
     #babe-img {
         margin-bottom: 550px;
     }
+    
+    .contact-box form input {
+        width: 45%
+    }
+    
+    .contact-box form input:focus {
+        width:55%;
+    }
+    
+    .contact-box form #info-msg {
+        width: 58%;
+    }
 }
 
 @media only screen and (max-width: 680px) {
+    .contact-box form input {
+        width: 50%
+    }
+    
+    .contact-box form input:focus {
+        width:60%;
+    }
+    
+    .contact-box form {
+        margin-left: 20%;
+    }
+    
+    .contact-box form #info-button {
+        margin-left: 25%;
+    }
+    
+    .contact-box form #info-msg {
+        width: 68%;
+    }
+    
     #babe-img {
-        margin-bottom: 480px;
+        margin-bottom: 360px;
+    }
+    
+    .left-heart {
+        top: 45%;
+        left: 0%;
+    }
+    
+    .right-heart {
+        top: 45%;
+        right: 0%;
     }
 }
 
 /* Smartphone Portrait and Landscape */ 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .contact-box form {
+        margin-left: 20%;
+    }
+    
+    .contact-box form #info-button {
+        margin-left: 25%;
+    }
+    
+    .contact-box form #info-msg {
+        width: 58%;
+    }
+    
     #babe-img {
         margin-bottom: 360px;
     }

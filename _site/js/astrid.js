@@ -62,7 +62,7 @@ function hideHeart() {
 
 function secretTalk() {
     var secretKey = prompt("愛之通關密語！？", "");
-    if (secretKey == "ilovetomy") {
+    if (secretKey.toLowerCase() == "ilovetomy" || secretKey.toLowerCase() == "ilovetomy ") {
         showMyLove();
     } else if (secretKey == null || secretKey == "") {
         // cancel, and do nothing

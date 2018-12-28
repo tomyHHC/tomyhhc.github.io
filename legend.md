@@ -62,7 +62,7 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 <br><br>
 
 #### Full-Time Volunteer Representative ( Sep 2012 ~ Sep 2014 )
-##### The Church of Jesus Christ of Latter-day Saints - Taiwan Taipei Mission
+##### [The Church of Jesus Christ of Latter-Day Saints](lds.org) - Taiwan Taipei Mission
 - Found people from diverse backgrounds and taught life improvement lessons over 70 hours per week
 
 
