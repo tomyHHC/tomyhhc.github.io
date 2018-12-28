@@ -841,11 +841,6 @@ td.gutter {
     height: 100px;
 }
 
-.contact-box form #info-msg:focus {
-    width: 52%;
-}
-
-
 .contact-box form #info-button {
     margin-top: 3%;
     margin-left: 20%;
@@ -860,6 +855,18 @@ td.gutter {
 
 .contact-box form #info-button:hover{
     background-color: #494949;
+}
+
+/*Google Map*/
+
+.mapouter {
+    text-align:right;
+    height:600px;
+    width:100%;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
 }
 
 /* Photo Gallery  */
@@ -1028,6 +1035,10 @@ div.gallery img {
     .contact-box form #info-msg {
         width: 58%;
     }
+    
+    .mapouter {
+        height:500px;
+    }
 }
 
 @media only screen and (max-width: 680px) {
@@ -1064,6 +1075,10 @@ div.gallery img {
         top: 45%;
         right: 0%;
     }
+    
+    .mapouter {
+        height:400px;
+    }
 }
 
 /* Smartphone Portrait and Landscape */ 
@@ -1081,12 +1096,12 @@ div.gallery img {
     }
     
     .contact-box form #info-msg {
-        width: 68%;
+        width: 73%;
         padding: 0;
     }
     
     #babe-img {
-        margin-bottom: 360px;
+        margin-bottom: 330px;
     }
     
     .left-heart {
@@ -1097,6 +1112,10 @@ div.gallery img {
     .right-heart {
         top: 45%;
         right: 0%;
+    }
+    
+    .mapouter {
+        height:300px;
     }
 }
 

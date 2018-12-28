@@ -34,10 +34,9 @@ Place :[266 N State St, Orem, UT 84057](https://goo.gl/maps/JFXUiYvGJMp) (in f
 
 <div class="mapouter">
     <div class="gmap_canvas">
-        <iframe width="745" height="600" id="gmap_canvas" src="https://maps.google.com/maps?q=266%20N%20State%20St%2C%20Orem%2C%20UT%2084057-4746&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+        <iframe class="mapouter" id="gmap_canvas" src="https://maps.google.com/maps?q=266%20N%20State%20St%2C%20Orem%2C%20UT%2084057-4746&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
         <a href="https://www.embedgooglemap.net"></a>
     </div>
-        <style>.mapouter{text-align:right;height:600px;width:745px;}.gmap_canvas {overflow:hidden;background:none!important;height:600px;width:745px;}</style>
 </div>
 
 ---
