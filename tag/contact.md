@@ -22,7 +22,7 @@ image: /assets/logo/TAG_Logo.png
      Name : <input type="text" name="Name" /> <br>
      Email  : <input type="email" name="Email_address" /> <br>
      Message: <br>
-     <input type="text" id="info-msg" name="Message" /> <br>
+     <textarea name="Message" id="info-msg" wrap="soft"></textarea><br>
      <button type="submit" id="info-button">Send</button>
    </form>
 </div>

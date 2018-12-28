@@ -861,6 +861,7 @@ td.gutter {
     border-radius: 25px;
     box-shadow: 0 3px 6px #648;
     border: none;
+    text-align: center;
 }
 
 .contact-box form #info-button:hover{
@@ -1128,7 +1129,7 @@ div.gallery img {
     }
     
     .contact-box form #info-msg {
-        width: 73%;
+        width: 75%;
         padding: 0;
     }
     
@@ -1162,6 +1163,249 @@ div.gallery img {
     .desc {
         font-size: 16px;
     }
+}
+
+.fade-in-animation {
+    opacity: 0;
+    animation: FadeInFrames ease 2s;
+    animation-iteration-count: 1;
+/*    transform-origin: 50% 50%;*/
+    animation-fill-mode:forwards; /*when the spec is finished*/
+    animation-delay: 1s;
+    -webkit-animation: FadeInFrames ease 2s;
+    -webkit-animation-iteration-count: 1;
+/*    -webkit-transform-origin: 50% 50%;*/
+    -webkit-animation-fill-mode:forwards; /*Chrome 16+, Safari 4+*/
+    -webkit-animation-delay: 1s;
+    -moz-animation: FadeInFrames ease 2s;
+    -moz-animation-iteration-count: 1;
+/*    -moz-transform-origin: 50% 50%;*/
+    -moz-animation-fill-mode:forwards; /*FF 5+*/
+    -moz-animation-delay: 1s;
+    -o-animation: FadeInFrames ease 2s;
+    -o-animation-iteration-count: 1;
+/*    -o-transform-origin: 50% 50%;*/
+    -o-animation-fill-mode:forwards; /*Not implemented yet*/
+    -o-animation-delay: 1s;
+    -ms-animation: FadeInFrames ease 2s;
+    -ms-animation-iteration-count: 1;
+/*    -ms-transform-origin: 50% 50%;*/
+    -ms-animation-fill-mode:forwards; /*IE 10+*/
+    -ms-animation-delay: 1s;
+    
+/*    animation-name: bounce;*/
+/*    animation-duration: 4s; /* or: Xms */*/
+/*    animation-iteration-count: 10;*/
+/*    animation-direction: alternate; /* or: normal */*/
+/*    animation-timing-function: ease-out; /* or: ease, ease-in, ease-in-out, linear, cubic-bezier(x1, y1, x2, y2) */*/
+/*    animation-fill-mode: forwards; /* or: backwards, both, none */*/
+/*    animation-delay: 2s; /* or: Xms */*/
+}
+
+@keyframes FadeInFrames{
+    0% {
+        opacity:0;
+/*        transform:  translate(0px,-25px)  ;*/
+    }
+    100% {
+        opacity:1;
+/*        transform:  translate(0px,0px)  ;*/
+    }
+}
+
+@-moz-keyframes FadeInFrames{
+    0% {
+        opacity:0;
+/*        -moz-transform:  translate(0px,-25px)  ;*/
+    }
+    100% {
+        opacity:1;
+/*        -moz-transform:  translate(0px,0px)  ;*/
+    }
+}
+
+@-webkit-keyframes FadeInFrames {
+    0% {
+        opacity:0;
+/*        -webkit-transform:  translate(0px,-25px)  ;*/
+    }
+    100% {
+        opacity:1;
+/*        -webkit-transform:  translate(0px,0px)  ;*/
+    }
+}
+
+@-o-keyframes FadeInFrames {
+    0% {
+        opacity:0;
+/*        -o-transform:  translate(0px,-25px)  ;*/
+    }
+    100% {
+        opacity:1;
+/*        -o-transform:  translate(0px,0px)  ;*/
+    }
+}
+
+@-ms-keyframes FadeInFrames {
+    0% {
+        opacity:0;
+/*        -ms-transform:  translate(0px,-25px)  ;*/
+    }
+    100% {
+        opacity:1;
+/*        -ms-transform:  translate(0px,0px)  ;*/
+    }
+}
+
+.drop-in-animation{
+    animation: DropInFrames ease 1s;
+    animation-iteration-count: 1;
+    transform-origin: 50% 50%;
+    -webkit-animation: DropInFrames ease 1s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-transform-origin: 50% 50%;
+    -moz-animation: DropInFrames ease-in 1s;
+    -moz-animation-iteration-count: 1;
+    -moz-transform-origin: 50% 50%;
+    -o-animation: DropInFrames ease-in 1s;
+    -o-animation-iteration-count: 1;
+    -o-transform-origin: 50% 50%;
+    -ms-animation: DropInFrames ease-in 1s;
+    -ms-animation-iteration-count: 1;
+    -ms-transform-origin: 50% 50%;
+}
+
+@keyframes DropInFrames{
+    0% {
+        transform:  translate(0px,-800px)  ;
+    }
+    60% {
+        transform:  translate(0px,5px)  ;
+    }
+    80% {
+        transform:  translate(0px,-10px)  ;
+    }
+    100% {
+        transform:  translate(0px,0px)  ;
+    }
+}
+
+@-moz-keyframes DropInFrames{
+    0% {
+        -moz-transform:  translate(0px,-800px)  ;
+    }
+    60% {
+        -moz-transform:  translate(0px,5px)  ;
+    }
+    80% {
+        -moz-transform:  translate(0px,-10px)  ;
+    }
+    100% {
+        -moz-transform:  translate(0px,0px)  ;
+    }
+}
+
+@-webkit-keyframes DropInFrames {
+    0% {
+        -webkit-transform:  translate(0px,-800px)  ;
+    }
+    60% {
+        -webkit-transform:  translate(0px,5px)  ;
+    }
+    80% {
+        -webkit-transform:  translate(0px,-10px)  ;
+    }
+    100% {
+        -webkit-transform:  translate(0px,0px)  ;
+    }
+}
+
+@-o-keyframes DropInFrames {
+    0% {
+        -o-transform:  translate(0px,-800px)  ;
+    }
+    60% {
+        -o-transform:  translate(0px,5px)  ;
+    }
+    80% {
+        -o-transform:  translate(0px,-10px)  ;
+    }
+    100% {
+        -o-transform:  translate(0px,0px)  ;
+    }
+}
+
+@-ms-keyframes DropInFrames {
+    0% {
+        -ms-transform:  translate(0px,-800px)  ;
+    }
+    60% {
+        -ms-transform:  translate(0px,5px)  ;
+    }
+    80% {
+        -ms-transform:  translate(0px,-10px)  ;
+    }
+    100% {
+        -ms-transform:  translate(0px,0px)  ;
+    }
+}
+
+.fade-in-down-animation {
+    opacity: 0;
+    animation: FadeInDownFrames ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode:forwards;
+    animation-delay: 1s;
+    -webkit-animation: FadeInDownFrames ease 2s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-fill-mode:forwards; /*Chrome 16+, Safari 4+*/
+    -webkit-animation-delay: 1s;
+    -moz-animation: FadeInDownFrames ease 2s;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-fill-mode:forwards; /*FF 5+*/
+    -moz-animation-delay: 1s;
+    -o-animation: FadeInDownFrames ease 2s;
+    -o-animation-iteration-count: 1;
+    -o-animation-fill-mode:forwards; /*Not implemented yet*/
+    -o-animation-delay: 1s;
+    -ms-animation: FadeInDownFrames ease 2s;
+    -ms-animation-iteration-count: 1;
+    -ms-animation-fill-mode:forwards; /*IE 10+*/
+    -ms-animation-delay: 1s;
+}
+
+@keyframes FadeInDownFrames{
+    0% {
+        opacity:0;
+        transform: translateY(-20px);;
+    }
+    100% {
+        opacity:1;
+        transform: translateY(0px);;
+    }
+}
+
+@-webkit-keyframes FadeInDownFrames {
+    0% {
+        opacity:0;
+        -webkit-transform: translateY(-20px);;
+    }
+    100% {
+        opacity:1;
+        -webkit-transform: translateY(0px);;
+    }
+}
+
+@-o-keyframes FadeInDownFrames {
+
+}
+
+@-ms-keyframes FadeInDownFrames {
+
+}
+
+@-moz-keyframes FadeInDownFrames{
+    
 }
 
 /*@font-face {*/
