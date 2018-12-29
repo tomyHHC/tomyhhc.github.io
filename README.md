@@ -6,6 +6,10 @@
 <!--markdown-->
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
-```
-Welcome to contact me through _email_: tomy830710@gmail.com :smile:
-```
+
+Welcome to contact me whenever you want! :smile:
+
+* Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)
+* Facebook: [https://www.facebook.com/tomyhhc](https://www.facebook.com/tomyhhc)
+* Linkedin: [https://www.linkedin.com/in/tomyh/](https://www.linkedin.com/in/tomyh/)
+

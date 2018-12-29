@@ -1,24 +1,24 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
     <div class="container-fluid">
-        <div class="navbar-header">
+        <div class="navbar-header fade-in-animation">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-                <span class="sr-only fade-in-animation-toggle">Toggle navigation</span>
+                <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
             {% if site.title-img %}
-            <a class="navbar-brand navbar-brand-logo fade-in-animation" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
+            <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
             {% else %}
             {% if page.ID == "TAG" %}
-            <a class="navbar-brand fade-in-animation" href="{{ site.url }}/Taiwan-Awesome-Ghicken">Taiwan Awesome Ghicken</a>
+            <a class="navbar-brand" href="{{ site.url }}/Taiwan-Awesome-Ghicken">Taiwan Awesome Ghicken</a>
             {% else %}
-            <a class="navbar-brand fade-in-animation" href="{{ site.url }}">{{ site.title }}</a>
+            <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
             {% endif %}
             {% endif %}
         </div>
         
-        <div class="collapse navbar-collapse fade-in-animation" id="main-navbar">
+        <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="nav navbar-nav navbar-right">
                 {% if page.ID == "TAG" %}
                 
