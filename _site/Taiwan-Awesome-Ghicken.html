@@ -148,6 +148,18 @@
 
 
 
+<a href="/tag/menu">Menu</a>
+
+                </li>
+                
+                <li>
+                    
+
+
+
+
+
+
 <a href="/tag/about">About</a>
 
                 </li>
@@ -223,6 +235,15 @@
         
         </div>
       </div>
+        
+        <font color="#ffffff" face="bad script" class="home-cover-title-font">
+            <span>
+                <b><i>Are you looking for the best Taiwanese food in Utah?</i></b>
+                <br>
+                <b><i>Here we are!</i></b>
+            </span>
+        </font>
+        
     </div>
   </div>
   <span class="img-desc"></span>
@@ -260,29 +281,76 @@
       
 
       <article role="main" class="blog-post">
-        <div style="text-align: center;">
-    <font color="#ffffff" face="bad script" class="home-cover-title-font">
-    <span>
-    <b><i>Are you looking for the best Taiwanese food in Utah?</i></b>
-    <br>
-    <b><i>Here we are!</i></b>
-    </span>
-    </font>
-    <img src="/assets//TAG/tag_cover.jpg">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div class="tag-home-head">
+<span class="tag-home-span1"><span style="font-family:old standard tt;"><strong>WELCOME TO</strong>
+<br>
+<span class="tag-home-span2">
+<span style="color:#f00505;">T</span><span style="color:#f29107;">a</span><span style="color:#faab00;">i</span><span style="color:#fac300;">w</span><span style="color:#f8e503;">a</span><span style="color:#fff706;">n</span> <span style="color:#f4f803;">A</span><span style="color:#eafa04;">w</span><span style="color:#c5f805;">e</span><span style="color:#72f603;">s</span><span style="color:#66f801;">o</span><span style="color:#03f265;">m</span><span style="color:#08fcd6;">e</span> <span style="color:#01cfee;">G</span><span style="color:#03b5f8;">h</span><span style="color:#031cf0;">i</span><span style="color:#4a07f4;">c</span><span style="color:#8105f2;">k</span><span style="color:#c001ec;">e</span><span style="color:#f80ded;">n</span>
+</span>
+<br>
+<span class="tag-home-span3"><b>FIRST Taiwanese Fried Ghicken Restaurant in Utah</b></span>
+
+<div class="w3-content w3-display-container" style="max-width:900px">
+    <img class="mySlides w3-animate-fading" src="../assets/TAG/Taiwan_Awesome_Ghicken.jpg" style="width:100%">
+    <img class="mySlides w3-animate-fading" src="../assets/TAG/combo.jpg" style="width:100%">
+    <img class="mySlides w3-animate-fading" src="../assets/TAG/tag_cover.jpg" style="width:100%">
+<!--    <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">-->
+<!--        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>-->
+<!--        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>-->
+<!--        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>-->
+<!--    </div>-->
+    <button class="slide-button w3-display-left w3-black" onclick="plusDivs(-1)">❮</button>
+    <button class="slide-button w3-display-right w3-black" onclick="plusDivs(1)">❯</button>
 </div>
 
-<div style="margin-top: 15px; text-align: center;"><span style="font-size:42px;"><span style="font-family:old standard tt;"><strong>WELCOME TO</strong>
+<script>
+var myIndex = 0;
+var slideIndex = 1;
+showDivs(slideIndex);
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 7000);    
+}
+
+function plusDivs(n) {
+    showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+    showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("demo");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" w3-white", "");
+    }
+    x[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " w3-white";
+}
+</script>
 
 
-<div style="text-align: center;"><span style="font-size:60px;"><span style="font-family:dancing script bold;">
-<span style="color:#f00505;">T</span><span style="color:#f29107;">a</span><span style="color:#faab00;">i</span><span style="color:#fac300;">w</span><span style="color:#f8e503;">a</span><span style="color:#fff706;">n</span> <span style="color:#f4f803;">A</span><span style="color:#eafa04;">w</span><span style="color:#c5f805;">e</span><span style="color:#72f603;">s</span><span style="color:#66f801;">o</span><span style="color:#03f265;">m</span><span style="color:#08fcd6;">e</span> <span style="color:#01cfee;">G</span><span style="color:#03b5f8;">h</span><span style="color:#031cf0;">i</span><span style="color:#4a07f4;">c</span><span style="color:#8105f2;">k</span><span style="color:#c001ec;">e</span><span style="color:#f80ded;">n</span>
-</span></span></div>
-
-<font style="font-size:24px; font-family: 'font2', sans-serif;"><b>FIRST Taiwanese Fried Ghicken Restaurant in Utah</b></font>
-<br>
-
-
-</span></span></div>
+</span></span>
+</div>
 
       </article>
 

@@ -3,6 +3,7 @@ layout: post
 ID: "TAG"
 navbar-links:
   Home: home
+  Menu: menu
   About: about
   Photo: photo
   Contact: contact
@@ -11,7 +12,7 @@ tag-network-links:
   yelp: ""
   email: tomy830710@gmail.com
 title: Photo
-subtitle: Freaking Awesome
+subtitle: Love Love Love Food :p
 bigimg: /assets/legend-cover.jpg
 image: /assets/logo/TAG_Logo.png
 ---

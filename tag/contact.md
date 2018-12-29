@@ -3,6 +3,7 @@ layout: page
 ID: "TAG"
 navbar-links:
   Home: home
+  Menu: menu
   About: about
   Photo: photo
   Contact: contact
