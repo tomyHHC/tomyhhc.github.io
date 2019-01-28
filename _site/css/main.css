@@ -889,6 +889,21 @@ td.gutter {
     height: 10.5%
 }
 
+.slide-button2 {
+    border: none;
+    display: inline-block;
+    padding: 1px 0 0 0;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    height: 5.5%
+}
+
 .slide-button:hover {
     background-color: #3c3c3d !important;
 }
@@ -1555,7 +1570,6 @@ div.gallery img {
         -moz-transform: translateY(0px);;
     }
 }
-
 /*@font-face {*/
 /*    font-family: "font2";*/
 /*    src: url("http://localhost:4000/assets/fonts/font2.tff");*/
