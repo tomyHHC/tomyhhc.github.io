@@ -8,7 +8,7 @@ permalink: /2019-Astrid-birthday
 
 <div id="inside" style="height: 700px; width: 1400px; margin-top: 200px; margin-left: 165px;">
     <div class="" style="max-width:900px; float: left;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/1.png" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/1.PNG" style="width:100%; height:623px;">
         <img class="mySlides w3-animate-fading" src="../assets/astrid/2.png" style="width:100%; height:623px;">
         <img class="mySlides w3-animate-fading" src="../assets/astrid/3.png" style="width:100%; height:623px;">
         <img class="mySlides w3-animate-fading" src="../assets/astrid/4.png" style="width:100%; height:623px;">
