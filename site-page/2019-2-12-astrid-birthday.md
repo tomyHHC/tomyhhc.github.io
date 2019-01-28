@@ -1,7 +1,7 @@
 ---
 layout: default-no-wide-limit
 titleL: Astrid Birthday
-permalink: /2019-Astrid-birthday
+permalink: /2019-astrid-birthday-card
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -41,8 +41,8 @@ permalink: /2019-Astrid-birthday
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/29.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/30.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/31.PNG">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/32.png">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/33.png">
+        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/32.PNG">
+        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/33.PNG">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/34.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/35.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/36.jpg">
