@@ -7,29 +7,32 @@ permalink: /2019-astrid-birthday-card
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div id="inside" style="height: 700px; width: 1400px; margin-top: 200px; margin-left: 165px;">
+
     <div class="" style="max-width:900px; float: left;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/1.PNG" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/2.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/3.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/4.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/5.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/6.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/7.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/8.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/9.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/10.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/11.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/12.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/13.png" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/14.JPG" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/15.JPG" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/16.JPG" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/0.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/1.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/2.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/3.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/4.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/5.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/6.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/7.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/8.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/9.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/10.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/11.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/12.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/13.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/14.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/15.jpg" style="width:100%; height:623px;">
+        <img class="mySlides w3-animate-fading" src="../assets/astrid/16.jpg" style="width:100%; height:623px;">
         <img class="mySlides w3-animate-fading" src="../assets/astrid/memory.jpg" style="width:100%; height:623px;">
         <button class="slide-button2 w3-display-left w3-black" style="position: absolute; left: 9.85%; top: 86%;" onclick="plusDivs(-1, 0)">&#10094;</button>
         <button class="slide-button2 w3-display-right w3-black" style="position: absolute; right: 36.5%; top: 86%;" onclick="plusDivs(1, 0)">&#10095;</button>
     </div>
     
     <div class="" style="float: left; width:25%; margin-left: 100px;">
+        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/20.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/21.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/22.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/23.jpg">
@@ -40,9 +43,9 @@ permalink: /2019-astrid-birthday-card
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/28.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/29.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/30.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/31.PNG">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/32.PNG">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/33.PNG">
+        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/31.jpg">
+        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/32.jpg">
+        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/33.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/34.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/35.jpg">
         <img class="mySlides2 w3-animate-fading" src="../assets/astrid/36.jpg">
@@ -66,6 +69,13 @@ permalink: /2019-astrid-birthday-card
         <p style="position: absolute; bottom: 0%; right: 0%;">最愛你ㄟ大寶 Tomy</p>
         <p style="position: absolute; bottom: -5%; right: 0%;">2019/1/27</p>
     </div>
+    
+    <div style="position: absolute; bottom: -2%; right: 10%; width: 250px;">
+        <div style="width: 250px; text-align: center;">想聽音樂嘛？有兩首歌唷～</div>
+        <audio src="" controls id="audioPlayer" autoplay>
+        Sorry~your brower does not support html5!
+        </audio>
+    </div>
 </div>
 
 
@@ -74,14 +84,15 @@ permalink: /2019-astrid-birthday-card
     <div class='right-heart heart animated css' style="right: 0%;"></div> 
 </div>
 
-
+<script src="https://code.jquery.com/jquery-2.2.0.js"></script>
 <script>
 var myIndex = 0;
 var myIndex2 = 0;
 showDivs(myIndex);
 showDivs2(myIndex2);
 carousel();
-carouselV()
+carouselV();
+audioPlayer();
 
 function carousel() {
     var i;
@@ -147,6 +158,22 @@ function showDivs2(n) {
     x[i].style.display = "none";  
     }
     x[myIndex2].style.display = "block";  
+}
+
+function audioPlayer() {
+    var current = 0;
+    var list = ["../assets/astrid/can-or-can-not.mp3", "../assets/astrid/Never-Enough.mp3"];
+    $("#audioPlayer")[0].src = list[current];
+<!--    $("#audioPlayer")[0].play();-->
+    $("#audioPlayer")[0].addEventListener("ended", function() {
+        current++;
+        if (current == list.length) {
+            current = 0;
+        }
+        $("#audioPlayer")[0].src = list[current];
+        $("#audioPlayer")[0].play();
+    });
+<!--    alert("不對唷...再想想~~~^^");-->
 }
 
 </script>
