@@ -97,15 +97,15 @@ audioPlayer();
 
 
 function carousel() {
-    if (myIndex < 17) myIndex++;
     var image = document.getElementById('image1');
-    var downloadingImage = new Image();
-    downloadingImage.onload = function(){
-        image.src = this.src;   
-    };
+<!--    var downloadingImage = new Image();-->
+<!--    downloadingImage.onload = function(){-->
+<!--        image.src = this.src;   -->
+<!--    };-->
     image.classList.add("w3-animate-fading");
     if (myIndex <= 16) {
-        downloadingImage.src ="../assets/astrid/" + myIndex + ".jpg";
+        myIndex++;
+        image.src ="../assets/astrid/" + myIndex + ".jpg";
         setTimeout(carousel, 10000);    
     } else {
         image.classList.remove("w3-animate-fading");
@@ -128,15 +128,15 @@ function carousel() {
 }
 
 function carouselV() {
-    if (myIndex2 < 36) myIndex2++;
     var image2 = document.getElementById('image2');
-    var downloadingImage = new Image();
-    downloadingImage.onload = function(){
-        image2.src = this.src;   
-    };
+<!--    var downloadingImage = new Image();-->
+<!--    downloadingImage.onload = function(){-->
+<!--        image2.src = this.src;   -->
+<!--    };-->
     image2.classList.add("w3-animate-fading");
     if (myIndex2 < 36) {
-        downloadingImage.src ="../assets/astrid/" + myIndex2 + ".jpg";
+        myIndex2++;
+        image2.src ="../assets/astrid/" + myIndex2 + ".jpg";
         setTimeout(carouselV, 10000);    
     } else {
         image2.classList.remove("w3-animate-fading");
@@ -172,11 +172,6 @@ function plusDivs(n, index) {
 function showDivs(n) {
     var image = document.getElementById('image1');
     image.classList.remove("w3-animate-fading");
-<!--    var downloadingImage = new Image();-->
-<!--    downloadingImage.onload = function(){-->
-<!--        image.src = this.src;   -->
-<!--    };-->
-<!--    image.src ="../assets/astrid/" + myIndex + ".jpg";-->
     if (n <= 16) {
         if (n < 0) myIndex = 0;
         image.src ="../assets/astrid/" + myIndex + ".jpg";
