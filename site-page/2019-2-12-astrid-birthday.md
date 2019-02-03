@@ -98,18 +98,18 @@ audioPlayer();
 
 function carousel() {
     var image = document.getElementById('image1');
-<!--    var downloadingImage = new Image();-->
-<!--    downloadingImage.onload = function(){-->
-<!--        image.src = this.src;   -->
-<!--    };-->
+    var downloadingImage = new Image();
+    downloadingImage.onload = function(){
+        image.src = this.src;   
+    };
     image.classList.add("w3-animate-fading");
     if (myIndex <= 16) {
         myIndex++;
-        image.src ="../assets/astrid/" + myIndex + ".jpg";
+        downloadingImage.src ="../assets/astrid/" + myIndex + ".jpg";
         setTimeout(carousel, 10000);    
     } else {
         image.classList.remove("w3-animate-fading");
-        image.src = "../assets/astrid/memory.jpg";
+        downloadingImage.src = "../assets/astrid/memory.jpg";
     }
     
 <!--    var i;-->
@@ -129,18 +129,18 @@ function carousel() {
 
 function carouselV() {
     var image2 = document.getElementById('image2');
-<!--    var downloadingImage = new Image();-->
-<!--    downloadingImage.onload = function(){-->
-<!--        image2.src = this.src;   -->
-<!--    };-->
+    var downloadingImage = new Image();
+    downloadingImage.onload = function(){
+        image2.src = this.src;   
+    };
     image2.classList.add("w3-animate-fading");
     if (myIndex2 < 36) {
         myIndex2++;
-        image2.src ="../assets/astrid/" + myIndex2 + ".jpg";
+        downloadingImage.src ="../assets/astrid/" + myIndex2 + ".jpg";
         setTimeout(carouselV, 10000);    
     } else {
         image2.classList.remove("w3-animate-fading");
-        image2.src = "../assets/astrid/36.jpg";
+        downloadingImage.src = "../assets/astrid/36.jpg";
     }
 <!--    var i;-->
 <!--    var x = document.getElementsByClassName("mySlides2");-->
@@ -171,13 +171,17 @@ function plusDivs(n, index) {
 
 function showDivs(n) {
     var image = document.getElementById('image1');
+    var downloadingImage = new Image();
+    downloadingImage.onload = function(){
+        image.src = this.src;   
+    };
     image.classList.remove("w3-animate-fading");
     if (n <= 16) {
         if (n < 0) myIndex = 0;
-        image.src ="../assets/astrid/" + myIndex + ".jpg";
+        downloadingImage.src ="../assets/astrid/" + myIndex + ".jpg";
     } else {
         myIndex = 17;
-        image.src = "../assets/astrid/memory.jpg";
+        downloadingImage.src = "../assets/astrid/memory.jpg";
     }
     
 <!--    var i;-->
@@ -192,13 +196,17 @@ function showDivs(n) {
 
 function showDivs2(n) {
     var image = document.getElementById('image2');
+    var downloadingImage = new Image();
+    downloadingImage.onload = function(){
+        image.src = this.src;   
+    };
     image.classList.remove("w3-animate-fading");
     if (n < 36) {
         if (n < 20) myIndex2 = 20;
-        image.src ="../assets/astrid/" + myIndex2 + ".jpg";
+        downloadingImage.src ="../assets/astrid/" + myIndex2 + ".jpg";
     } else {
         myIndex2 = 36;
-        image.src = "../assets/astrid/36.jpg";
+        downloadingImage.src = "../assets/astrid/36.jpg";
     }
 <!--    var i;-->
 <!--    var x = document.getElementsByClassName("mySlides2");-->
