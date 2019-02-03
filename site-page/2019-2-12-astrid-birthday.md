@@ -9,46 +9,46 @@ permalink: /2019-astrid-birthday-card
 <div id="inside" style="height: 700px; width: 1400px; margin-top: 200px; margin-left: 165px;">
 
     <div class="" style="max-width:900px; float: left;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/0.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/1.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/2.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/3.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/4.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/5.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/6.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/7.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/8.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/9.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/10.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/11.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/12.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/13.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/14.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/15.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/16.jpg" style="width:100%; height:623px;">
-        <img class="mySlides w3-animate-fading" src="../assets/astrid/memory.jpg" style="width:100%; height:623px;">
+        <img id="image1" class="mySlides w3-animate-fading" src="../assets/astrid/0.jpg" style="width:100%; height:623px;">
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/1.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/2.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/3.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/4.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/5.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/6.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/7.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/8.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/9.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/10.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/11.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/12.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/13.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/14.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/15.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/16.jpg" style="width:100%; height:623px;">-->
+<!--        <img class="mySlides w3-animate-fading" src="../assets/astrid/memory.jpg" style="width:100%; height:623px;">-->
         <button class="slide-button2 w3-display-left w3-black" style="position: absolute; left: 9.85%; top: 86%;" onclick="plusDivs(-1, 0)">&#10094;</button>
         <button class="slide-button2 w3-display-right w3-black" style="position: absolute; right: 36.5%; top: 86%;" onclick="plusDivs(1, 0)">&#10095;</button>
     </div>
     
     <div class="" style="float: left; width:25%; margin-left: 100px;">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/20.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/21.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/22.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/23.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/24.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/25.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/26.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/27.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/28.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/29.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/30.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/31.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/32.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/33.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/34.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/35.jpg">
-        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/36.jpg">
+        <img id="image2" class="mySlides2 w3-animate-fading" src="../assets/astrid/20.jpg">
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/21.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/22.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/23.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/24.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/25.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/26.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/27.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/28.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/29.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/30.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/31.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/32.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/33.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/34.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/35.jpg">-->
+<!--        <img class="mySlides2 w3-animate-fading" src="../assets/astrid/36.jpg">-->
         <button class="slide-button2 w3-display-left w3-black" style="position: absolute; left: 69.5%; top: 86%;" onclick="plusDivs(-1, 1)">&#10094;</button>
         <button class="slide-button2 w3-display-right w3-black" style="position: absolute; right: 9.8%; top: 86%;" onclick="plusDivs(1, 1)">&#10095;</button>
     </div>
@@ -86,44 +86,75 @@ permalink: /2019-astrid-birthday-card
 
 <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
 <script>
-var myIndex = 0;
-var myIndex2 = 0;
-showDivs(myIndex);
-showDivs2(myIndex2);
+var myIndex = -1;
+var myIndex2 = 19;
+<!--showDivs(myIndex);-->
+<!--showDivs2(myIndex2);-->
 carousel();
 carouselV();
 audioPlayer();
 
+
+
 function carousel() {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-    }
-    myIndex++;
-    if (myIndex <= x.length-1) {
-        x[myIndex-1].style.display = "block";  
-        setTimeout(carousel, 7000);    
+    if (myIndex < 17) myIndex++;
+    var image = document.getElementById('image1');
+    var downloadingImage = new Image();
+    downloadingImage.onload = function(){
+        image.src = this.src;   
+    };
+    image.classList.add("w3-animate-fading");
+    if (myIndex <= 16) {
+        downloadingImage.src ="../assets/astrid/" + myIndex + ".jpg";
+        setTimeout(carousel, 10000);    
     } else {
-        x[myIndex-1].style.display = "block";  
-        x[myIndex-1].classList.remove("w3-animate-fading");
+        image.classList.remove("w3-animate-fading");
+        image.src = "../assets/astrid/memory.jpg";
     }
+    
+<!--    var i;-->
+<!--    var x = document.getElementsByClassName("mySlides");-->
+<!--    for (i = 0; i < x.length; i++) {-->
+<!--        x[i].style.display = "none";  -->
+<!--    }-->
+<!--    myIndex++;-->
+<!--    if (myIndex <= x.length-1) {-->
+<!--        x[myIndex-1].style.display = "block";  -->
+<!--        setTimeout(carousel, 7000);    -->
+<!--    } else {-->
+<!--        x[myIndex-1].style.display = "block";  -->
+<!--        x[myIndex-1].classList.remove("w3-animate-fading");-->
+<!--    }-->
 }
 
 function carouselV() {
-    var i;
-    var x = document.getElementsByClassName("mySlides2");
-    for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-    }
-    myIndex2++;
-    if (myIndex2 <= x.length-1) {
-        x[myIndex2-1].style.display = "block";  
-        setTimeout(carouselV, 7000);   
+    if (myIndex2 < 36) myIndex2++;
+    var image2 = document.getElementById('image2');
+    var downloadingImage = new Image();
+    downloadingImage.onload = function(){
+        image2.src = this.src;   
+    };
+    image2.classList.add("w3-animate-fading");
+    if (myIndex2 < 36) {
+        downloadingImage.src ="../assets/astrid/" + myIndex2 + ".jpg";
+        setTimeout(carouselV, 10000);    
     } else {
-        x[myIndex2-1].style.display = "block";  
-        x[myIndex2-1].classList.remove("w3-animate-fading");
+        image2.classList.remove("w3-animate-fading");
+        image2.src = "../assets/astrid/36.jpg";
     }
+<!--    var i;-->
+<!--    var x = document.getElementsByClassName("mySlides2");-->
+<!--    for (i = 0; i < x.length; i++) {-->
+<!--    x[i].style.display = "none";  -->
+<!--    }-->
+<!--    myIndex2++;-->
+<!--    if (myIndex2 <= x.length-1) {-->
+<!--        x[myIndex2-1].style.display = "block";  -->
+<!--        setTimeout(carouselV, 7000);   -->
+<!--    } else {-->
+<!--        x[myIndex2-1].style.display = "block";  -->
+<!--        x[myIndex2-1].classList.remove("w3-animate-fading");-->
+<!--    }-->
 }
 
 function plusDivs(n, index) {
@@ -134,30 +165,54 @@ function plusDivs(n, index) {
     }
 }
 
-function currentDiv(n) {
-    showDivs(slideIndex = n);
-}
+<!--function currentDiv(n) {-->
+<!--    showDivs(slideIndex = n);-->
+<!--}-->
 
 function showDivs(n) {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    if (n >= x.length) {myIndex = 0}
-    if (n < 0) {myIndex = x.length-1}
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
+    var image = document.getElementById('image1');
+    image.classList.remove("w3-animate-fading");
+<!--    var downloadingImage = new Image();-->
+<!--    downloadingImage.onload = function(){-->
+<!--        image.src = this.src;   -->
+<!--    };-->
+<!--    image.src ="../assets/astrid/" + myIndex + ".jpg";-->
+    if (n <= 16) {
+        if (n < 0) myIndex = 0;
+        image.src ="../assets/astrid/" + myIndex + ".jpg";
+    } else {
+        myIndex = 17;
+        image.src = "../assets/astrid/memory.jpg";
     }
-    x[myIndex].style.display = "block";  
+    
+<!--    var i;-->
+    <!--    var x = document.getElementsByClassName("mySlides");-->
+<!--    if (n >= x.length) {myIndex = 0}-->
+<!--    if (n < 0) {myIndex = x.length-1}-->
+<!--    for (i = 0; i < x.length; i++) {-->
+<!--        x[i].style.display = "none";  -->
+<!--    }-->
+<!--    x[myIndex].style.display = "block";  -->
 }
 
 function showDivs2(n) {
-    var i;
-    var x = document.getElementsByClassName("mySlides2");
-    if (n >= x.length) {myIndex2 = 0}
-    if (n < 0) {myIndex2 = x.length-1}
-    for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
+    var image = document.getElementById('image2');
+    image.classList.remove("w3-animate-fading");
+    if (n < 36) {
+        if (n < 20) myIndex2 = 20;
+        image.src ="../assets/astrid/" + myIndex2 + ".jpg";
+    } else {
+        myIndex2 = 36;
+        image.src = "../assets/astrid/36.jpg";
     }
-    x[myIndex2].style.display = "block";  
+<!--    var i;-->
+<!--    var x = document.getElementsByClassName("mySlides2");-->
+<!--    if (n >= x.length) {myIndex2 = 0}-->
+<!--    if (n < 0) {myIndex2 = x.length-1}-->
+<!--    for (i = 0; i < x.length; i++) {-->
+<!--    x[i].style.display = "none";  -->
+<!--    }-->
+<!--    x[myIndex2].style.display = "block";  -->
 }
 
 function audioPlayer() {
