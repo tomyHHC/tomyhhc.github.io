@@ -15,7 +15,7 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 
 #### Bachelor of Sciences, [Brigham Young University - Provo] ( Jan 2017 ~ April 2020 )
 - Major : [Computer Science]
-- Minor : [Business]
+- Minor : [Business Management]
 
 #### Associate of Arts and Sciences, [Brigham Young University–Hawaii] ( Jan 2015 ~ Oct 2016 )
 - Major : Computer Science
@@ -26,8 +26,8 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Experience
 ---
 
-#### Unity 3D Mobile Developer ( Oct 2018 ~ Present )
-##### Brigham Young University with [4th Wall FX] ( Orem, UT )
+#### Unity 3D Augmented Reality Developer Intern ( Oct 2018 ~ Present )
+##### Brigham Young University with [4th Wall FX] ( Provo, UT )
 - Developed and published an app - [ImmersiveBible] will be published in 2019
 - Created Award systems and scripts
 - Implemented Social Share Functions and scripts
@@ -40,7 +40,7 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 - Produced, modified, and launched Augmented Reality content to the Seek platform
 <br><br>
 
-#### Project Manager On Campus Internship ( Sep, 2017 – Dec, 2017 )
+#### Project Manager On Campus Intern ( Sep, 2017 – Dec, 2017 )
 ##### Brigham Young University with 36Pixels LLC ( Provo, UT )
 - Self-learned and developed app using Ionic
 - Converted the website LDSplan.com into full native apps for iOS and Android
