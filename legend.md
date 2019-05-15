@@ -28,10 +28,11 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 
 #### Unity 3D Augmented Reality Developer Intern ( Oct 2018 ~ Present )
 ##### Brigham Young University with [4th Wall FX] ( Provo, UT )
-- Developed and published an app - [ImmersiveBible] will be published in 2019
-- Created Award systems and scripts
+- Work closely with a dedicated Project Owner & Dev Team to develop learning experiences on iOS & Android platform
+- Develop new features, reusable modular components, and documentation as requested
 - Implemented Social Share Functions and scripts
 -  Ensure game assets are efficiently integrated into the engine while preserving artistic integrity & performance
+- Assist improving VR project
 <br><br>
 
 #### Unity 3D mobile development Intern ( Feb, 2018 – June, 2018 )
@@ -50,8 +51,9 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Skills
 ---
 ```
-  Java, Python, C#, C++, CSS, HTML, SQL, Java Script, Linux, Shell Script 
-  Swift, Unity 3D (Game Development) & Jekyll (Web Development)
+  Game Development: Unity & Unreal 
+  Java, Python, C#, C++, Java Script, HTML, CSS 
+  SQL, Linux, Shell Script, Swift
 ```
 
 # Volunteer
@@ -72,7 +74,7 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 [My life experience]: https://www.linkedin.com/in/tomyh/
 [Brigham Young University - Provo]: https://www.byu.edu
 [Computer Science]: https://catalog.byu.edu/physical-and-mathematical-sciences/computer-science
-[Business]: https://catalog.byu.edu/business/business-programs
+[Business Management]: https://catalog.byu.edu/business/business-programs
 [Brigham Young University–Hawaii]: https://byuh.edu
 [4th Wall FX]: https://4thwallfx.com
 [ImmersiveBible]: https://4thwallfx.com

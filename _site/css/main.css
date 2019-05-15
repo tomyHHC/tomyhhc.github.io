@@ -947,14 +947,9 @@ div.gallery img {
     height: auto;
 }
 
-.embed-video {
-    width: 100%;
-    height: 300px;
-}
-
 .embed-video iframe {
-    width: 65%;
-    height: 300px;
+    width: 700px;
+    height: 455px;
 }
 
 /*heart*/
