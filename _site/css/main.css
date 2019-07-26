@@ -19,11 +19,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #3a9cf2;
 }
 a:hover,
 a:focus {
-  color: #3c62ad;
+  color: #008AFF;
 }
 blockquote {
   color: #808080;
@@ -63,12 +63,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background-color: #3c62ad;
+  background-color: #008AFF;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background-color: #3c62ad;
+  background-color: #008AFF;
 }
 img::selection {
   color: white;
@@ -101,7 +101,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #F5F5F5;
+  background-color: #FFFFFF;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
@@ -123,7 +123,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #3c62ad;
+  color: #008AFF;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -222,7 +222,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background-color: #F5F5F5;
+  background-color: #FEFEFE;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -328,7 +328,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #3c62ad;
+  color: #008AFF;
 }
 
 .post-preview .post-title {
@@ -393,14 +393,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #3a9cf2;
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #3c62ad;
+  color: #008AFF;
   background-color: #EEE;
 }
 
@@ -606,8 +606,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  border: 1px solid #3c62ad;
-  background-color: #3c62ad;
+  border: 1px solid #008AFF;
+  background-color: #008AFF;
 }
 
 .pager {

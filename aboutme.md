@@ -2,23 +2,33 @@
 layout: page
 title: About me
 subtitle: Freaking Awesome
-bigimg: /assets/goku-last-skill-dragon-balls.jpg    #legend-cover.jpg
+bigimg: /assets/dragon-sky.jpg    #goku-last-skill-dragon-balls.jpg
 ---
 <script src="{{ site.url }}/js/astrid.js"></script>
 
-My name is Hsiang Chi Huang. If it's hard for you to remember, just call me Tomy. I'm major in Computer Science and minor in Business at BYU-Provo.  I'm a cool Taiwanese guy who is and will influence the world! :smile:
+My Chinese name is Hsiang Chi Huang, or just call me 'Tomy' easier haha.  
+My major is Computer Science and my minor is Business  Management at Brigham Young University - Provo.  
+I'm a cool Taiwanese guy, an Augmented & Virtual Reality Developer, an Life Entrepreneur, and a Dream Walker of White Hacker 駭客夢行者!!! :smile:
 
-My goals are to be a/an:
+![Business Card - 1](/assets/BC-1.png)
+![Business Card - 2](/assets/BC-2.png)
 
-- Fantastic Mormon
-- Outstanding Son
+My goals:
+
+- Fantastic Latter Day Saint of Jesus Christ
+- Family-Lover Son
 - Beloved Father
-- Outstanding entrepreneur 
-- Extraordinary Computer Programmer
-- Incredible White Hacker
+- Sweet & loving Family
+- Extraordinary Computer Expert
+- Outstanding Life Entrepreneur 
+- Incredible Dream Walker of White Hacker / Investor
 
-I have a wonder family~ :kissing_heart:
+I have a wonder family and I love them so so so much~~~ :kissing_heart:  
+Let me introduce them to u!  
+My mom, my dad, my sister and me.  
 ![黃家庭](/assets/about-family.jpg)
+
+
 
 <!--and a sweet baby~ :heart_eyes:-->
 <!--<div id="babe-img">-->
@@ -31,5 +41,5 @@ I have a wonder family~ :kissing_heart:
 <!--<div class='right-heart heart animated css'></div> -->
 <!--</div>-->
 
-Nice to meet u~hope you enjoy my stories~ :wink: :satisfied:
+Nice to meet u & hope you enjoy my website :wink: :satisfied:
 

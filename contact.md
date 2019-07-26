@@ -4,21 +4,23 @@ title: Contact
 bigimg: /assets/one-piece.jpg
 ---
 
-**Thank you for spending time and visiting my web!
-Welcome to contact me anytime~ hopefully we have a chance to get to know each other!**
+**Thank you for spending time and viewing my website! Hope you enjoy it!  
+Welcome to contact me~and hopefully we may become friends!** :smile:
+
+Here are the ways that you can reach out to me, or through those social icons at the botton of each page :smiley: 
 
 <div class="contact-box" >
-    <form id="info-form" action="https://formspree.io/tomy830710@gmail.com" method="POST">
-        Name : <input type="text" name="Name" /> <br>
-        Email  : <input type="email" name="Email_address" /> <br>
-        Message: <br>
+<form id="info-form" action="https://formspree.io/tomy830710@gmail.com" method="POST">
+Name : <input type="text" name="Name" /> <br>
+Email  : <input type="email" name="Email_address" /> <br>
+Message: <br>
 <!--        <input type="text" id="info-msg" name="Message" /> <br>-->
-        <textarea name="Message" id="info-msg" wrap="soft"></textarea><br>
-        <button type="submit" id="info-button">Send</button>
-    </form>
+<textarea name="Message" id="info-msg" wrap="soft"></textarea><br>
+<button type="submit" id="info-button">Send</button>
+</form>
 </div>
 
-**Here are the ways that you can reach out to me, or you can find the social icons at the botton of each page** :smiley: 
+---
 
 * Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)
 * Facebook: [https://www.facebook.com/tomyhhc](https://www.facebook.com/tomyhhc)
@@ -26,7 +28,7 @@ Welcome to contact me anytime~ hopefully we have a chance to get to know each ot
 
 ![黃上](/assets/kingTomy.JPG)
 
-Have a good day~ :wink: :smile: 
+Have an awesome day! :wink: :smile: 
 
 <!--https://stackoverflow.com/questions/5773174/html-button-to-send-email-->
 <!--<script type="text/javascript">-->

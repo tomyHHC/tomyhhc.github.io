@@ -7,7 +7,7 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 ---
 <div style="text-align: center;">
 <div style="font-size: 40px;">Tomy Hsiang Chi Huang</div>
-<div style="font-size: 18px; font-weight: 100;">A Cool Taiwanese Handsome Guy</div>
+<div style="font-size: 18px; font-weight: 100;">Dream Walker of White Hacker || Augmented & Virtual Reality Developer || Entrepreneur</div>
 </div>
 
 # Education
@@ -26,7 +26,8 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Experience
 ---
 
-#### Unity 3D Augmented Reality Developer Intern ( Oct 2018 ~ Present )
+### Unity 3D Augmented Reality Developer Intern  
+##### Oct 2018 ~ April 2019  •  6 months
 ##### Brigham Young University with [4th Wall FX] ( Provo, UT )
 - Work closely with a dedicated Project Owner & Dev Team to develop learning experiences on iOS & Android platform
 - Develop new features, reusable modular components, and documentation as requested
@@ -35,13 +36,16 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 - Assist improving VR project
 <br><br>
 
-#### Unity 3D mobile development Intern ( Feb, 2018 – June, 2018 )
-##### Brigham Young University with Seek XR ( Lehi, UT )
-- Started self-learned Unity & C# and created a fashioned AR fighting game
-- Produced, modified, and launched Augmented Reality content to the Seek platform
+### Unity 3D Mobile Augmented Reality Developer Intern 
+##### Feb, 2018 – June, 2018  •  4 months
+##### Brigham Young University with [Seek XR] ( Lehi, UT )
+- Self-learned Unity & C# and created a fashioned Augmented Reality fighting game
+- Produced, modified, and launched Augmented Reality contents to the Seek platform
+-  From Feb to Apr, drove to Seek in Lehi every Friday to work for three hrs while studying at BYU. Started working 20 hrs per week since the beginning of May
 <br><br>
 
-#### Project Manager On Campus Intern ( Sep, 2017 – Dec, 2017 )
+### Project Manager On Campus Intern 
+##### Sep, 2017 – Dec, 2017  •  4 months
 ##### Brigham Young University with 36Pixels LLC ( Provo, UT )
 - Self-learned and developed app using Ionic
 - Converted the website LDSplan.com into full native apps for iOS and Android
@@ -52,20 +56,22 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 ---
 ```
   Game Development: Unity & Unreal 
-  Java, Python, C#, C++, Java Script, HTML, CSS 
-  SQL, Linux, Shell Script, Swift
+  React Native, Java, Python, C#, C++, Java Script  
+  HTML, CSS, Markdown, SQL, Linux, Shell Script
 ```
 
 # Volunteer
 ---
 
-#### President of Taiwanese Student Association - BYU ( Oct 2017 ~ Jan 2019 )
-- Rebuild the club and unified 50s Taiwanese students by holding 5 activities per semester and provide supports
-<br><br>
+### President of [Taiwanese Student Association - BYU] 
+##### Oct 2017 ~ Jan 2019 • 1 year & 4 months
+<!--- Rebuild the club and unified 50s Taiwanese students by holding 5 activities per semester and provide supports-->
+<!--<br><br>-->
 
-#### Full-Time Volunteer Representative ( Sep 2012 ~ Sep 2014 )
+
+### Full-Time Volunteer Representative ( Sep 2012 ~ Sep 2014 )
 ##### [The Church of Jesus Christ of Latter-Day Saints](lds.org) - Taiwan Taipei Mission
-- Found people from diverse backgrounds and taught life improvement lessons over 70 hours per week
+<!--- Found people from diverse backgrounds and taught life improvement lessons over 70 hours per week-->
 
 
 
@@ -78,3 +84,5 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 [Brigham Young University–Hawaii]: https://byuh.edu
 [4th Wall FX]: https://4thwallfx.com
 [ImmersiveBible]: https://4thwallfx.com
+[Seek XR]: https://seekxr.com
+[Taiwanese Student Association - BYU]: https://www.facebook.com/groups/304356140049505/?ref=bookmarks
