@@ -27,6 +27,8 @@ navbar-links:
   Experience:
   - Legend: "legend"
   - Achieve: "achieve"
+  Opportunity:
+  - Yager: "yager"
   Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

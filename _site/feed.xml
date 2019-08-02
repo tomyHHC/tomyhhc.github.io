@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Yager Group</title>
+        <description>
+          An Independent Amway Approved Training Provider - 
+          Introduction The Yager Group is an independent Amway approved training provider. Their mentoring and training system has established a proven history of helping indivitual build their own successful business. The Yagers Group’s passion has always been to help people who want to help themselves in a business of their own....
+        </description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/TheYagerGroup</link>
+        <guid isPermaLink="true">http://localhost:4000/TheYagerGroup</guid>
+      </item>
+    
+      <item>
         <title>Taiwan Awesome Ghicken</title>
         <description>
           First Taiwanese Fried Ghicken Restaurant in Utah - 
