@@ -3,16 +3,6 @@ layout: post
 title:  "FutureTrendsNow"
 subtitle: "An Independent Amway Approved Training Provider"
 ID: "futuretrendsnow"
-navbar-links:
-  Home: home
-  Menu: menu
-  About: about
-  Photo: photo
-  Contact: contact
-  tag-network-links:
-  facebook: ""
-  yelp: ""
-  email: tomy830710@gmail.com
 permalink: /FutureTrendsNow
 tags: [business, entrepreneur, financial freedom]
 bigimg: /assets/break-limit.png
