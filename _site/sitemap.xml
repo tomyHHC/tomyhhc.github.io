@@ -5,7 +5,7 @@
 <lastmod>2018-12-20T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/TheYagerGroup</loc>
+<loc>http://localhost:4000/FutureTrendsNow</loc>
 <lastmod>2019-08-01T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -21,10 +21,13 @@
 <loc>http://localhost:4000/achieve/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>http://localhost:4000/futuretrendsnow/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -40,8 +43,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/yager/</loc>
 </url>
 </urlset>
