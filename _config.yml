@@ -28,7 +28,7 @@ navbar-links:
   - Legend: "legend"
   - Achieve: "achieve"
   Opportunity:
-  - MentorPro: "amwayFF"
+  - MentorPro: "mentorPro"
   Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
