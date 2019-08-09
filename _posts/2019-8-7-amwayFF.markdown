@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "MentorPro"
-subtitle: "An Independent Amway Approved Training Provider"
+title:  MentorPro
+subtitle: A Chance to Financial Freedom
 ID: "MentorPro"
-permalink: /MentorPro
+permalink: /mentorPro
 tags: [business, entrepreneur, financial freedom]
 bigimg: /assets/break-limit.jpg
 image: /assets/amwayFF/coverphoto.jpg
+avatar: /assets/amwayFF/coverphoto.jpg
 #headerTitle: Are you looking for Financial Freedom?
-#avatar: /assets/logo/TAG_Logo.png
 ---
 
 Do you know what is <b>Financial Freedom</b>? It means your income is greater than your expense. How does it affect your life? It allows you to <b>have a right not to work, spend time with your family, travel, eat good food, and do whatever you love</b>. The most important thing at all is that you're still earning money while doing the things you love. Unbelievable! :open_mouth: Incredible! :scream: Yap! I know you may say that because you just knew it. However, it is possible! :sunglasses: 

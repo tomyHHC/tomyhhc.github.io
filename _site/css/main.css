@@ -1565,6 +1565,31 @@ div.gallery img {
         -moz-transform: translateY(0px);;
     }
 }
+
+.button {
+    text-align:center;
+    background-color: #2b3138;
+    color: white;
+    text-decoration: none;
+    border: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    opacity: 1;
+    transition: 0.3s;
+    margin: 4px 2px;
+    padding: 16px 32px;
+}
+
+.button:hover {opacity: .7}
+
+/*.button:active {*/
+/*    box-shadow: 0 5px #666;*/
+/*    transform: translateY(4px);*/
+/*}*/
+
 /*@font-face {*/
 /*    font-family: "font2";*/
 /*    src: url("http://localhost:4000/assets/fonts/font2.tff");*/

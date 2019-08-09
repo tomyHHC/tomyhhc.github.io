@@ -3,23 +3,21 @@ layout: page
 title: MentorPro
 subtitle: A Chance to Financial Freedom
 bigimg: /assets/break-limit.jpg
+image: /assets/amwayFF/coverphoto.jpg
+avatar: /assets/amwayFF/coverphoto.jpg
 ---
 
-Do you know what is <b>Financial Freedom</b>? It means your income is greater than your expense. How does it affect your life? It allows you to <b>have a right not to work, spend time with your family, travel, eat good food, and do whatever you love</b>. The most important thing at all is that you're still earning money while doing the things you love. Unbelievable! :open_mouth: Incredible! :scream: Yap! I know you may say that because you just knew it. However, it is possible! :sunglasses: 
+Have you ever been taught concepts of money? Are you struggling with money? Are you worrying about getting a good job? Have you even thought about when you are going to retire if you have a really good job? What about if you were sick and cannot work? After all, the essential point is <b>how you earn, keep, and use your money</b>. I'm glad you are here today and you may be glad you are here too after reading the following important message for you!  
 
-A popular Youtuber with millions views can easily made a good amount of passive income through Ads. A skilled business investor can just sit at home and earn passive incomes through multiple businesses. There are many ways to gain passive incomes, such as Stock Markets, Commodities, Real Estates, Patents, Business Ownerships and so on. You can also make passive incomes to achieve YOUR Financial Freedom. You just need a map to success. <i>Have you ever dared to dream? What is your vision and dream for your life? What do you want your life to become? Have you taken any action?</i> <b> If you desire finanical freedom but don't know what and how to do, open your heart and mind and take 5~10 minutes to read through this page and ponder about the information. “Sow a thought, reap an act; Sow an act, reap a habit; Sow a habit, reap a character; Sow a character, reap an eternal destiny” - Spencer W. Kimball.</b> I will be honest to show you what I'm doing in this business, why I'm doing it, and the opportunity to gain your passive income. Hope this may change your perspective of money, life, and even destiny! :heart:
+What is <b>Financial Freedom</b>? It means your income is greater than your expense. How does it affect your life? It allows you to <b>have a right not to work, spend time with your family, travel, eat good food, and do whatever you love</b>. The most important thing at all is that you're still earning money while doing the things you love. Unbelievable! :open_mouth: Incredible! :scream: Yap! I know you may say that because you just knew it. However, it is possible! :sunglasses: 
+
+A popular Youtuber with millions views can easily made a good amount of passive income through Ads. A skilled business investor can just sit at home and earn passive incomes through multiple businesses. There are many ways to gain passive incomes, such as Stock Markets, Commodities, Real Estates, Patents, Business Ownerships and so on. You can also make passive incomes to achieve YOUR Financial Freedom. You just need a map to success. <i>Have you ever dared to dream? What is your vision and dream for your life? What do you want your life to become? Have you taken any action?</i>  
+
+I will be 200% honest to show you what I'm doing in this business, why I'm doing it, and the opportunity to help you achieve your dreams and get your Financial Freedom. If you don't like talking about new idea or business, I would suggest you to close this page so that we don't offend each other. <b>However, If you desire finanical freedom but don't know what and how to do, open your heart and mind and take 5~10 minutes to read through this page and ponder about the information. “Sow a thought, reap an act; Sow an act, reap a habit; Sow a habit, reap a character; Sow a character, reap an eternal destiny”</b> - Spencer W. Kimball. Hope this may change your perspective of money, life, and even destiny! :heart:
 
 <!--Button-->
-<div style="margin: auto; width: 100%; margin-left: 40%">
-<table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 15px 20px; " width="100%">
-<a href="mailto:tomy830710@gmail.com" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-<span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">Know More</span>
-</a>
-</td>
-</tr>
-</table>
+<div style="margin: auto; width: 100%; text-align: center;">
+    <button onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Know More</button>
 </div>
 
 ## Introduction
@@ -52,7 +50,9 @@ On the other side, people in the B & I quadrant know how to play the game. They 
 3. Knowledge/Skills 
 4. Risk. 
 
-<b>We provide a map to success that cut down those risks for you and have an opportunity for you to become Individual Business Owner earning passive income. Amount of passive income depends on how serious you are and how hard you are willing to learn and grow.</b> I know you're selecting if this is a right business for you. I'm selecting who is going to be my partner as well. It's a team game and we make money together as a super team! Of course, it's hard. I'm doing it and I know it. However, I also know it's possible because I'm starting to see results. Now the opportunity is in front of you and you decide it. If you decide to join, <b>you're required to learn a lot, changing your mindset, ways you think and habits, in order to become stronger in mind and spirit to achieve success. You reap what you sow. You become what you do.</b> I would love to talk to you first and see what I can help for you to prepare yourself for this business and see if you fit this business or not. It is not just about money but also learning and growing; If you are not interested, that's ok. Maybe it doesn't fit you. <b>I encourage you to share these important knowledge with your family and friends and keep searching ways to get to B & I quadrant. May God bless you with success!</b> :innocent:
+<b>We provide a map to success that cut down those risks for you and have an opportunity for you to become Individual Business Owner earning passive income. Amount of passive income depends on how serious you are and how hard you are willing to learn and grow.</b> I know you're selecting if this is a right business for you. I'm selecting who is going to be my partner as well. It's a team game and we make money together as a super team! Of course, it's hard. I'm doing it and I know it. However, I also know it's possible because I'm starting to see results. 
+
+Now the opportunity is in front of you and you decide it. If you desire to join, <b>you will be required to learn a lot, changing your mindset, ways you think and habits, in order to become stronger in mind and spirit to achieve success. You reap what you sow. You become what you do.</b> I would love to talk to you first and see what I can help for you to prepare yourself for this business and see if you fit this business or not. It is not just about money but also learning and growing; If you are not interested, that's ok. Maybe it doesn't fit you. <b>I encourage you to share these important knowledge with your family and friends and keep searching ways to get to B & I quadrant. May God bless you with success!</b> :innocent:
 
 ![standOutQuote](/assets/amwayFF/standOutQuote.jpg)
 
@@ -72,28 +72,11 @@ Today in business and in life, everyone needs an edge!
 If you're looking for an opportunity that will provide you with both challenge and rewards and has a built-in mentorship program designed for your success, you're ready to take the next step.
 
 <!--Button-->
-<div style="margin: auto; width: 100%; margin-left: 32%">
-<table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" bgcolor="#2b3138" style="background-color: #2b3138; margin: auto; max-width: 600px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 15px 20px; " width="100%">
-<a href="mailto:tomy830710@gmail.com" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #2b3138; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-<span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">I want Financial Freedom!</span>
-</a>
-</td>
-</tr>
-</table>
+<div style="margin: auto; width: 100%; text-align: center;">
+<button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">I want Financial Freedom!</button>
 </div>
 
 ---
-
-### Love Yourself
-
-If you enjoy finding <b>New</b> and <b>High-Quality</b> Nutrition/beauty/Bath&Body/Home products that fit your lifestyle, you'll love what's "in store!"  
-如果你想要找你所熱愛的營養品/美容/日常用品/家用品, 你會發現這裡充滿著驚喜!  
-[Click here]
-
----
-
 
 Today, you get a chance to read this page and I'm glad you read through here! I appreciate your time and hope this may help you. <b>I would love to hear any comment or question you have and will reply to you soon. I'm here to help you achieve your needs, goals, dreams, and of course even Financial Freedom</b>! Welcome to talk with me about business or investment opportunities as well. :smile: 
 
