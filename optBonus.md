@@ -31,6 +31,8 @@ Here is where I bagan to transform my body!
 
 ---
 
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD"></div>
+
 [F45 South Orem]: https://f45training.com/southorem/home  
 [Let's Go]: https://www.amway.com/tomyhhc  
 [Click here]: https://coinbase.com/earn/eos/invite/d8q013zn

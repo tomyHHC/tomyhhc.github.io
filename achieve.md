@@ -5,6 +5,17 @@ subtitle: Think Bigger, Do More
 bigimg: /assets/ace.jpg
 ---
 
+### React Native App Project - Bobogo
+#### Tomy's React Native Experience • June 2019
+
+* 2~3 weeks self-learning React Native Project!
+
+<div class="embed-video">
+<iframe src="https://www.youtube.com/embed/NlvRnYrBpS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
 ### Unity Mobile 3D Project - ImmersiveBible
 #### Tomy's Unity3D Intern Experience • Feb 2019
 

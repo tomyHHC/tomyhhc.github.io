@@ -14,11 +14,11 @@ I'm a cool Taiwanese guy, an Augmented & Virtual Reality Developer, an Life Entr
 ![Business Card - 2](/assets/BC-2.png)
 
 @tomyhhc 名言
-* “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success! 別讓任何人駭走你的夢想！寫好程式藍圖並檢測思想與心合一～為成功而奮鬥！”
-* “Every successful leader talks about one thing. That thing is named 'dream'. 每一位成功的領袖都在談論一件事物～那件事物～叫做'夢想'！”
-* “It does not matter who you would be if walk without destination, sail without map, live without dream. 如果走路沒有終點～航行沒有地圖～活著沒有夢想～那麼對你將會變得如何都沒什麼影響”
-* “No one is born to be a fool. You are born to be a Christlike sunshine! 沒有人天生是個笨蛋～你以成為基督般閃耀亮星而生！”
-* “I only help those who are eager to change. Only those who desire to change will change. 我只幫助那些渴望改變的人～只有真心想改變的人才會改變！“
+* “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success! 別讓任何人駭走你的夢想！寫好程式藍圖～檢測心思～～為成功而奮鬥！”
+* “Every successful leader talks about one thing. That thing is called 'dream'; 每一位成功的領袖都在談論一件事物～那件事物～叫做'夢想'！”
+* “It does not matter who you will be if walk without destination, sail without maps, live without dreams. 如果走路沒有終點～航行沒有地圖～活著沒有夢想～那麼對你將會變得如何都無所謂”
+* “No one is born to be a fool. You are born to be a Christlike sunshine! 沒有人天生是個笨蛋～你為基督般閃耀亮星而生！”
+* “I only help those who are eager to change. Only those who desire to change can and will change; 我只能幫助那些渴望改變的人～只有真心想改變的人才會改變！“
 
 My goals:
 

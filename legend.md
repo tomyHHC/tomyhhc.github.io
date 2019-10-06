@@ -26,6 +26,13 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Experience
 ---
 
+###  Unity3D Virtual Reality Jr Developer - Remote
+##### May 2019 ~ Present
+##### [OutboxEDU] ( New York )
+- About OutboxEDU: Experienced Teacher Assistant with a demonstrated history of working in the e-learning industry. Skilled in Data Analysis, Educational Technology, Augmented Reality (AR), Mixed Reality, and Language Teaching.
+- My job is to create a VR environment to help teachers and students enjoy learning using Google Cardboard.
+<br><br>
+
 ### Unity 3D Augmented Reality Developer Intern  
 ##### Oct 2018 ~ April 2019  •  6 months
 ##### Brigham Young University with [4th Wall FX] ( Provo, UT )
@@ -55,9 +62,9 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Skills
 ---
 ```
-  Game Development: Unity & Unreal 
-  React Native, Java, Python, C#, C++, Java Script  
-  HTML, CSS, Markdown, SQL, Linux, Shell Script
+  Game Development: Unity & Unreal
+  React, React Native, Java, Python, C#, Java Script, Typescript  
+  HTML, CSS, Markdown, C++, SQL, Linux, Shell Script
 ```
 
 # Volunteer
@@ -65,18 +72,18 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 
 ### President of [Taiwanese Student Association - BYU] 
 ##### Oct 2017 ~ Jan 2019 • 1 year & 4 months
-<!--- Rebuild the club and unified 50s Taiwanese students by holding 5 activities per semester and provide supports-->
+- Rebuild the club and unified 50s Taiwanese students by holding 5 activities per semester and provide supports
 <!--<br><br>-->
 
 
 ### Full-Time Volunteer Representative ( Sep 2012 ~ Sep 2014 )
 ##### [The Church of Jesus Christ of Latter-Day Saints](lds.org) - Taiwan Taipei Mission
-<!--- Found people from diverse backgrounds and taught life improvement lessons over 70 hours per week-->
+- As I was a 18 young boy, I chose to serve as a missionary of Latter Day Saints of Jesus Christ for two years. I rode bicycle to preach God's gospel with my companions in order to bless everyone's life in Taiwan Taipei Mission. No matter how bad the weather was or how hurt that was to get rejection from everyone, we always went forward because we know the gospel will definitely bless and change their lives! The holy mission refined me as well to become a better and mature man! I am so glad and blessed to serve the Lord and people!
 
 
 
 
-
+[OutboxEDU]: https://www.linkedin.com/company/cielovr/
 [My life experience]: https://www.linkedin.com/in/tomyh/
 [Brigham Young University - Provo]: https://www.byu.edu
 [Computer Science]: https://catalog.byu.edu/physical-and-mathematical-sciences/computer-science
