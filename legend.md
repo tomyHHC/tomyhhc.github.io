@@ -26,9 +26,9 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Experience
 ---
 
-###  Unity3D Virtual Reality Jr Developer - Remote
+###  Unity3D Virtual Reality Jr Developer 
 ##### May 2019 ~ Present
-##### [OutboxEDU] ( New York )
+##### [OutboxEDU] ( New York ) [OutboxEDU Linkedin]
 - About OutboxEDU: Experienced Teacher Assistant with a demonstrated history of working in the e-learning industry. Skilled in Data Analysis, Educational Technology, Augmented Reality (AR), Mixed Reality, and Language Teaching.
 - My job is to create a VR environment to help teachers and students enjoy learning using Google Cardboard.
 <br><br>
@@ -83,7 +83,8 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 
 
 
-[OutboxEDU]: https://www.linkedin.com/company/cielovr/
+[OutboxEDU]: http://outboxedu.com
+[OutboxEDU Linkedin]: https://www.linkedin.com/company/cielovr/
 [My life experience]: https://www.linkedin.com/in/tomyh/
 [Brigham Young University - Provo]: https://www.byu.edu
 [Computer Science]: https://catalog.byu.edu/physical-and-mathematical-sciences/computer-science
