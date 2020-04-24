@@ -26,8 +26,17 @@ bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 # Experience
 ---
 
+###  WordPress Web Developer 
+##### Oct 2019 ~ Mar 2020
+##### Brigham Young University with BYUStudies ( Provo, UT )
+- Built a whole new BYU Studies website using Wordpress with my team
+- Started learning php
+- Created a costumed Wordpress plugin for shipping/delivering APIs of BYU Print and Mail department by myself
+- Learned how to maintain the whole things, such as front/back-end web, database, server, marketing and so on.
+<br><br>
+
 ###  Unity3D Virtual Reality Jr Developer 
-##### May 2019 ~ Present
+##### May 2019 ~ Jan 2020
 ##### [OutboxEDU] ( New York ) [OutboxEDU Linkedin]
 - About OutboxEDU: Experienced Teacher Assistant with a demonstrated history of working in the e-learning industry. Skilled in Data Analysis, Educational Technology, Augmented Reality (AR), Mixed Reality, and Language Teaching.
 - My job is to create a VR environment to help teachers and students enjoy learning using Google Cardboard.

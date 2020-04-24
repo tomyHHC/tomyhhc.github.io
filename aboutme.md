@@ -6,22 +6,36 @@ bigimg: /assets/dragon-sky.jpg    #goku-last-skill-dragon-balls.jpg
 ---
 <script src="{{ site.url }}/js/astrid.js"></script>
 
-My Chinese name is Hsiang Chi Huang, or just call me 'Tomy' easier haha.  
-My major is Computer Science and my minor is Business  Management at Brigham Young University - Provo.  
-I'm a cool Taiwanese guy, an Augmented & Virtual Reality Developer, an Life Entrepreneur, and a Dream Walker of White Hacker 駭客夢行者!!! :smile:
+My name is 黃祥集 Hsiang Chi Huang, or just call me 'Tomy' (easier haha)  
+
+My major 主修 is Computer Science 計算機科學 and my minor副修 is Business  Management 商業管理 at Brigham Young University - Provo 楊百翰大學.  
+
+I'm a cool Taiwanese guy, an Augmented & Virtual Reality Developer, an Life Entrepreneur, and a DreamWalker of White Hacker 駭客夢行者!!! :smile:
 
 ![Business Card - 1](/assets/BC-1.png)
 ![Business Card - 2](/assets/BC-2.png)
 
-@tomyhhc 名言
-* “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success! 別讓任何人駭走你的夢想！寫好程式藍圖～檢測心思～～為成功而奮鬥！”
+就在2020年四月從楊百翰大學畢業～我毅然決然地回台灣創業  
+Right after graduated from BYU, I decided to be an entrepreneur in Taiwan.
+
+Welcome to visit my business: [編夢者教育]
+
+### @tomyhhc 名言  
+* “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success! 別讓任何人駭走你的夢想！寫好程式藍圖～檢測心思～為成功而奮鬥！”
 * “Every successful leader talks about one thing. That thing is called 'dream'; 每一位成功的領袖都在談論一件事物～那件事物～叫做'夢想'！”
-* “It does not matter who you will be if walk without destination, sail without maps, live without dreams. 如果走路沒有終點～航行沒有地圖～活著沒有夢想～那麼對你將會變得如何都無所謂”
+* “It does not matter to who you will be if walking without destinations, sailing without maps or living without dreams; 如果走路沒有終點～航行沒有地圖～活著沒有夢想～對於你的未來成就都無所謂”
 * “No one is born to be a fool. You are born to be a Christlike sunshine! 沒有人天生是個笨蛋～你為基督般閃耀亮星而生！”
 * “I only help those who are eager to change. Only those who desire to change can and will change; 我只能幫助那些渴望改變的人～只有真心想改變的人才會改變！“
+* “If you cannot see your dreams or visions, why don’t you move forward?  Different angle, different perspective, difference life; 如果你看不見你的夢想或願景～為何停滯不前？不同角度～不同視野～不同人生"
+* Don’t complain. Fix complains and wealth follows! 不要抱怨～修理抱怨～財富自然會蹦出來！"
+* “Don’t just give fruit. Teach men to make fruit! 不要只給甜果～教人去創造甜果！”
+* “Thing is nothing by itself. You’re the one giving it meanings and values! 事物本身沒有意義～賦予它們意義和價值的是你！“
+* “We are not machines but live like robots more than robots. If we only accept commands and finish jobs without knowing why, how and what to live, we will never know and feel beauty of life! 我們不是機器卻活得比機器人更像機器人。如果我們只一昧地接受指令跟完成眼前工作～而不去尋求為何而生～如何生活～何為人生～我們將無法體會人生之精彩！”
+* “Everyone is a talented entrepreneur. But if we teach by only giving commands without love from heart, most people will never change and live like a robot until death; 每個人都是天才創業家. 但假如我們只透過命令來教導，卻缺乏來自心中的愛，大部分的人們根本不會有任何改變，並活得像個機器人直到死亡。“
+* “No matter how rich or poor we all may have money but not wealth;  不管多貧窮或有錢，我們都能夠擁有錢，卻沒有財富。”
+* “Life is hard…money seems everything…but I have things money cannot buy~like friends!”
 
-My goals:
-
+### My goals:  
 - Fantastic Latter Day Saint of Jesus Christ
 - Family-Lover Son
 - Beloved Father
@@ -50,3 +64,4 @@ My mom, my dad, my sister and me.
 
 Nice to meet u & hope you enjoy my website :wink: :satisfied:
 
+[編夢者教育]: https://tomyhhc.com

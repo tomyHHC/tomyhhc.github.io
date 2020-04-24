@@ -28,8 +28,9 @@ navbar-links:
   - Legend: "legend"
   - Achieve: "achieve"
   Opportunity:
+  - DreamCoder: "dreamcoder"
   - MentorPro: "mentorPro"
-  - Bonus: "optBonus"
+  - Cryptocurrency: "cryptocurrency"
   Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

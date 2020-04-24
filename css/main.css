@@ -817,11 +817,11 @@ td.gutter {
 .contact-box {
     margin: auto;
 /*    width: 50%;*/
-    height: 300px;
+    height: 350px;
     padding: 20px;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border: 0.5px solid;
-    border-radius: 25px;
+    border-radius: 8px;
     transition:height 0.4s ease-in-out;
 }
 
@@ -830,37 +830,37 @@ td.gutter {
 }
 
 .contact-box form {
-    margin-left: 30%;
+    margin-left: 10%;
 }
 
 .contact-box form input {
     margin-top: 5px;
     border:none;
     border-bottom:1px solid #ccc;
-    transition:width 0.4s ease-in-out;
-    width: 40%
+/*    transition:width 0.4s ease-in-out;*/
+    width: 70%
 }
 
 .contact-box form input:focus {
-    width:50%;
+/*    width:50%;*/
 }
 
 .contact-box form #info-msg {
     margin-top: 5px;
     border-bottom: none;
     border-style: groove;
-    width: 52%;
-    height: 100px;
+    width: 80%;
+    height: 150px;
 }
 
 .contact-box form #info-button {
     margin-top: 3%;
-    margin-left: 20%;
+    margin-left: 35%;
     width: 63px;
     height: 33px;
-    background-color: black;
+    background-color: gray;
     color: white;
-    border-radius: 25px;
+    border-radius: 8px;
     box-shadow: 0 3px 6px #648;
     border: none;
     text-align: center;

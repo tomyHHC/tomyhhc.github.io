@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Bonus
+title: Cryptocurrency
 subtitle: A Chance to Extra Joy
 bigimg: /assets/break-limit.jpg
 image: /assets/amwayFF/coverphoto.jpg
 avatar: /assets/amwayFF/coverphoto.jpg
 ---
 
-
+<!---
 ### Love Yourself
 
 If you enjoy finding <b>New</b> and <b>High-Quality</b> Nutrition/beauty/Bath&Body/Home products that fit your lifestyle, you'll love what's "in store!"  
@@ -16,23 +16,25 @@ If you enjoy finding <b>New</b> and <b>High-Quality</b> Nutrition/beauty/Bath&Bo
 [Let's Go]
 
 ---
+--->
 
-### Crypto Currency
-Earn EOS up to $50 by completing 3 minutes lessons & inviting friends 
+### 虛擬貨幣 Crypto Currency Trading
 
-[Click here]
+我目前最喜歡也正在用的交易平台 - 幣安  
+My favorite trading platform: [Binance]
+
+註冊帳戶：[Binance Register]
+
+![binance-ref](/assets/binance-ref.jpg)
+
+歡迎聯絡～彼此交流！
 
 ---
 
-### Body Training
-Here is where I bagan to transform my body! 
-
-[F45 South Orem]
-
----
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD"></div>
 
-[F45 South Orem]: https://f45training.com/southorem/home  
+[Binance]: https://www.binance.com/en
+[Binance Register]: https://www.binance.com/en/register?ref=38211385 
 [Let's Go]: https://www.amway.com/tomyhhc  
-[Click here]: https://coinbase.com/earn/eos/invite/d8q013zn
+
