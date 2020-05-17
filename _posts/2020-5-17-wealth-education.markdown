@@ -1,10 +1,13 @@
 ---
-layout: page
-title: 財富教育
-subtitle: 夢想 | 財富 | 自由
+layout: post
+title:  財富教育
+subtitle: 學校不會教的關於金錢的知識
+ID: "DreamCoder"
+permalink: /wealthEdu_post
+tags: [entrepreneur, knowledge, money, education]
 bigimg: /assets/break-limit.jpg
-image: /assets/amwayFF/coverphoto.jpg
-avatar: /assets/amwayFF/coverphoto.jpg
+image: /assets/bitcoin.png
+avatar: /assets/bitcoin.png
 ---
 
 「上好學校，追求高薪工作，貸款買車買房，長期投資股票」這是您正在實行的生存法則嘛？
@@ -68,7 +71,7 @@ avatar: /assets/amwayFF/coverphoto.jpg
 我自己在美國做過2次自己創業、數次與人合作創業，以及各種投資，股票 Stock、虛擬貨幣 Cryptocurrency、房地產 Real Estate、多層次傳銷 Network Marketing Business，2020年回台創辦一家「編夢者電腦教育有限公司」，深知大多數的人對「錢」、「投資」、「創業」沒擁有正確的知識與經驗，所以決定奉獻我的生命，成為財富導師＆創辦教育公司，投入在台灣教育界，再發展至全世界，希望更多人開始意識到問題所在，進而渴望學習正確知識，轉換心態，改變行為，最後創造屬於自己的永恆幸福命運！
 
 相信您讀到這裡，肯定是發現剛才所讀的訊息很有趣對吧？  
-我是一名創業投資者，也是一位「電腦」＆「財富」導師，若您覺得我是值得信任的，並渴望了解更多，得到正確的知識指引，好做正確的投資與創業，您可以到Contact的頁面，歡迎隨時聯絡！:smile:  
+我是一名創業投資者，也是一位「電腦」＆「財富」導師，若您覺得我是值得信任的，並渴望了解更多，得到正確的知識指引，好做正確的投資與創業，您可以到『Opportunity』分頁選項下找尋更多資訊，或者在『Contact』分頁找尋聯絡方式，歡迎隨時聯絡！:smile:  
 若不方便也沒關係，謝謝您所花的時間與渴望學習新事物的態度！祝您找到一個最適合您成長的方法，並順利達到您的目標與夢想！:innocent:
 
 <!--Button-->

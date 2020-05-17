@@ -9,6 +9,8 @@ avatar: /assets/dreamcoder.jpg
 
 ### DreamCoder 江湖故事
 
+![Dreamcoder logo](/assets/dreamcoder.jpg)
+
 願景: 使每一位渴望學習電腦程式技術的人在資訊時代未來江湖有一席之地
 
 使命: 用愛傳授每一位學員叩叮技術和應變能力，賦予力量並準備好迎接屬於他們的夢想未來、快樂人生、光明成功
