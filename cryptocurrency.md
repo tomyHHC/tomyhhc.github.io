@@ -1,33 +1,22 @@
 ---
 layout: page
-title: Cryptocurrency
-subtitle: A Chance to Extra Joy
+title: 虛擬貨幣
+subtitle: Cryptocurrency
 bigimg: /assets/break-limit.jpg
-image: /assets/amwayFF/coverphoto.jpg
-avatar: /assets/amwayFF/coverphoto.jpg
+image: /assets/bitcoin.png
+avatar: /assets/bitcoin.png
 ---
 
-<!---
-### Love Yourself
+### 虛擬貨幣 Cryptocurrency
 
-If you enjoy finding <b>New</b> and <b>High-Quality</b> Nutrition/beauty/Bath&Body/Home products that fit your lifestyle, you'll love what's "in store!"  
-如果你想要找你所熱愛的營養品/美容/日常用品/家用品, 你會發現這裡充滿著驚喜!  
-
-[Let's Go]
-
----
---->
-
-### 虛擬貨幣 Crypto Currency Trading
-
-我目前最喜歡也正在用的交易平台 - 幣安  
+我目前正在使用，也是最喜歡的交易平台 - 幣安  
 My favorite trading platform: [Binance]
 
 註冊帳戶：[Binance Register]
 
 ![binance-ref](/assets/binance-ref.jpg)
 
-歡迎聯絡～彼此交流！
+若您對投資有興趣，您可以到Contact的頁面，歡迎隨時聯絡！:smile:
 
 ---
 
