@@ -108,7 +108,7 @@ share-links-active:
   facebook: true
   google: true
   linkedin: true
-#  instagram: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -117,7 +117,7 @@ url-pretty: "Tomy's blog"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-87066179-3"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
