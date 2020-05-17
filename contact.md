@@ -7,7 +7,8 @@ bigimg: /assets/one-piece.jpg
 **Thank you for spending time and viewing my website! Hope you enjoy it!  
 Welcome to contact me~and hopefully we may become friends!** :smile:
 
-Here are the ways that you can reach out to me, or through those social icons at the botton of each page :smiley: 
+Here are the ways that you can reach out to me, 
+through contact form below, or social icons at the botton of each page :smiley: 
 
 <div class="contact-box" >
 <form id="info-form" action="https://formspree.io/tomy830710@gmail.com" method="POST">
@@ -22,9 +23,11 @@ Message: <br>
 
 ---
 
+* Telegram: @tomyhhc
+* Line: @handsometomy 
 * Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)
-* Facebook: [https://www.facebook.com/tomyhhc](https://www.facebook.com/tomyhhc)
-* Linkedin: [https://www.linkedin.com/in/tomyh/](https://www.linkedin.com/in/tomyh/)
+* Facebook: [www.facebook.com/tomyhhc](https://www.facebook.com/tomyhhc)
+* Linkedin: [www.linkedin.com/in/tomyh/](https://www.linkedin.com/in/tomyh/)
 
 ![黃上](/assets/kingTomy.JPG)
 

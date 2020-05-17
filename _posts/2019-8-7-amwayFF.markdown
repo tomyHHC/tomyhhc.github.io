@@ -4,7 +4,7 @@ title:  MentorPro
 subtitle: A Chance to Financial Freedom
 ID: "MentorPro"
 permalink: /mentorPro_post
-tags: [business, entrepreneur, financial freedom]
+tags: [entrepreneur, financial freedom]
 bigimg: /assets/break-limit.jpg
 image: /assets/amwayFF/coverphoto.jpg
 avatar: /assets/amwayFF/coverphoto.jpg

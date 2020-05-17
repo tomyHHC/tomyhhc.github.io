@@ -28,8 +28,10 @@ navbar-links:
   - Legend: "legend"
   - Achieve: "achieve"
   Opportunity:
-  - DreamCoder: "dreamcoder"
-  - MentorPro: "mentorPro"
+  - 編夢者電腦教育: "dreamcoder"
+  - 財富教育: "wealthEdu"
+  - Riway 力匯: "riway"
+  - Amway 安麗: "amway"
   - Cryptocurrency: "cryptocurrency"
   Contact: "contact"
 #  Resources:

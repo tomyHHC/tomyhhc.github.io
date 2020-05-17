@@ -1,0 +1,82 @@
+---
+layout: page
+title: 財富教育
+subtitle: 夢想 | 財富 | 自由
+bigimg: /assets/break-limit.jpg
+image: /assets/amwayFF/coverphoto.jpg
+avatar: /assets/amwayFF/coverphoto.jpg
+---
+
+「上好學校，追求高薪工作，貸款買車買房，長期投資股票」這是您正在實行的生存法則嘛？
+
+若是如此，我覺得您...很快就完蛋囉！  
+您肯定會覺得我在亂講嚇人...  
+不過您是否真的<b>研究調查</b>過現代數據？您是否瞭解您的真實情況多嚴峻？
+
+<b>Ω 學校</b>  
+現在一大堆大學生找不到工作...因為許多公司要求更高學歷...  
+不知您是否有意識到許多研究生畢業也找不到份好工作？  
+花那麼多錢讀那麼久的書，結果不是做跟自己不相關or不喜歡的工作，就是創業做小攤販/Uber Eat/Youtuber/直銷傳銷...
+
+<b>Ω 工作</b>  
+全年平均總薪資排名
+- 住宿服務業：NT$37020  
+- 餐館業：NT$34591  
+- 美髮及美容美體業：NT$29071  
+- 補教業：NT$26033
+
+薪資都如此，更別說<b>升遷</b>與<b>升薪</b>...
+
+<b>Ω 貸款</b>  
+許多人對錢根本沒概念，因為學校沒有教...  
+所以現代大部分的人不知如何管理/使用錢，大都陷入金錢危機...  
+貸款：$1,000,000  
+利息APR：10% ＆ 每月支付  
+期限：10年  
+
+每月付款：$13215.07  
+總付款金額：$1585808.84  
+也就是說，總利息：$585808.84  
+想過您的<b>信用卡的利息APR更高%</b> ＆ 包含<b>各種費用</b>嘛？
+
+<b>Ω 美國股市Dow Jones</b>  
+2020/3/12 :chart_with_downwards_trend:2352.6點 (-9.99%)  
+2020/3/16 :chart_with_downwards_trend:2997.1點 (-12.93%)，那一日，成為史上美國股市第二慘跌日  
+（第一：1987/10/19 -20.467%、第三：1929/10/28 -12.34%）  
+2020/2/21~2020/3/23從29156.21點:chart_with_downwards_trend:18274.36點 (-37.32%)  
+美國股市縮水是以美金<b>(兆)</b>為單位
+您的股票投資安全嘛？  
+還是有其他更好的投資方法<b>您還不知道</b>而已？
+
+科技日新月異，時代快速變遷，您覺得那生存法則還適用於現代嘛？  
+當您聽到我說「我覺得您...很快就完蛋囉！」時，您感到生氣？還是覺得我這樣的說法很有趣？  
+就好比如很多人聽到直銷/傳銷，連聽都不想聽馬上翻臉，卻不知道許多傳銷公司與人員認真在為生活奮鬥（不否認也有很多公司只為利益而運作），同時傳遞先進的健康生活知識給人們，幫助人們提升並改善生活品質！
+
+<b>您的態度將決定您的命運！</b>
+
+![standOutQuote](/assets/amwayFF/standOutQuote.jpg)
+
+---
+
+哈佛前校長德里克博克 Derek Bok:  
+“If you think education is expensive, try ignorance.”  
+「如果你覺得教育的成本太高，試試看無知的代價.」
+
+這就是教育之重要性！  
+問題在於，現在的教育系統、學校、教師導師、公司，是否具有也教導正確的知識，以您為主？還是以各自利益為主？
+
+我自己在美國做過2次自己創業、數次與人合作創業，以及各種投資，股票 Stock、虛擬貨幣 Cryptocurrency、房地產 Real Estate、多層次傳銷 Network Marketing Business，2020年回台創辦一家「編夢者電腦教育有限公司」，深知大多數的人對「錢」、「投資」、「創業」沒擁有正確的知識與經驗，所以決定奉獻我的生命，成為財富導師＆創辦教育公司，投入在台灣教育界，再發展至全世界，希望更多人開始意識到問題所在，進而渴望學習正確知識，轉換心態，改變行為，最後創造屬於自己的永恆幸福命運！
+
+相信您讀到這裡，肯定是發現剛才所讀的訊息很有趣對吧？  
+我是一名創業投資者，也是一位「電腦」＆「財富」導師，若您覺得我是值得信任的，並渴望了解更多，得到正確的知識指引，好做正確的投資與創業，您可以到Contact的頁面，歡迎隨時聯絡！:smile:  
+若不方便也沒關係，謝謝您所花的時間與渴望學習新事物的態度！祝您找到一個最適合您成長的方法，並順利達到您的目標與夢想！:innocent:
+
+<!--Button-->
+<div style="margin: auto; width: 100%; text-align: center;">
+<button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Email</button>
+</div>
+
+[Click here]: https://www.amway.com/tomyhhc  
+[Click here to see 2019 Report of Amway Review]: https://www.ecosecretariat.org/amway-mlm-review/
+[The Yager Group]: https://www.amway.com/about-amway/yagergroup
+[Amway Wiki]: https://en.wikipedia.org/wiki/Amway
