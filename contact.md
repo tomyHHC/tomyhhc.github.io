@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Contact
+title: 聯絡方式
+subtitle: Contact
 bigimg: /assets/one-piece.jpg
 ---
 
-**Thank you for spending time and viewing my website! Hope you enjoy it!  
-Welcome to contact me~and hopefully we may become friends!** :smile:
+**很開心您的來訪！希望您享受其中！  
+若有任何疑問或需要幫忙～歡迎隨時與我聯絡～也可以交個朋友！** :wink:  
+**Thank you for spending time viewing my website! Hope you enjoy it!  
+Welcome to contact me anytime if having any question or need any help~and let's become friends!**
 
-Here are the ways that you can reach out to me, 
-through contact form below, or social icons at the botton of each page :smiley: 
+
+以下有不同方式可以與我聯絡，  
+可以留資訊給我～或者使用每個頁底的連結 :smiley:  
+Here are the ways that you can reach out to me,  
+through contact form below, or social icons at the botton of each page 
 
 <div class="contact-box" >
 <form id="info-form" action="https://formspree.io/tomy830710@gmail.com" method="POST">
@@ -23,6 +29,7 @@ Message: <br>
 
 ---
 
+* Phone: (886) 963-660-838
 * Telegram: @tomyhhc
 * Line: @handsometomy 
 * Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)
@@ -31,7 +38,8 @@ Message: <br>
 
 ![黃上](/assets/kingTomy.JPG)
 
-Have an awesome day! :wink: :smile: 
+祝您有個超棒的一天！  
+Have an awesome day! :smile: 
 
 <!--https://stackoverflow.com/questions/5773174/html-button-to-send-email-->
 <!--<script type="text/javascript">-->

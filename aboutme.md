@@ -8,17 +8,29 @@ bigimg: /assets/dragon-sky.jpg    #goku-last-skill-dragon-balls.jpg
 
 My name is 黃祥集 Hsiang Chi Huang, call me 'Tomy' or call me tonight :smile: 
 
-My major 主修 is Computer Science 計算機科學 and my minor副修 is Business  Management 商業管理 at Brigham Young University - Provo 楊百翰大學.  
+My major 主修 is Computer Science 計算機科學  
+and my minor副修 is Business  Management 商業管理  
+at Brigham Young University - Provo 楊百翰大學.  
 
-I'm a cool Taiwanese guy 酷酷台灣人, an Augmented & Virtual Reality Developer 虛擬實境電腦工程師, an entrepreneur創業家 / investor 投資者, and a DreamWalker of White Hacker 駭客夢行者 :sunglasses:
+I'm a cool Taiwanese guy 酷酷台灣人,  
+an Augmented & Virtual Reality Developer 虛擬實境電腦工程師,  
+an entrepreneur創業家 / investor 投資者,  
+and a DreamWalker of White Hacker 駭客夢行者 :sunglasses:
 
-就在2020年四月從楊百翰大學畢業～我毅然決然地回台灣創業!  
-Right after graduated from BYU, I decided to be an entrepreneur in Taiwan!
+就在2020年四月從楊百翰大學畢業～我毅然決然地回台灣創業～成為一位「創業家」與「教育家」!  
+Right after graduated from BYU, I decided to go back to Taiwan and be an entrepreneur & educator!
 
-歡迎拜訪 Welcome to visit my business: [編夢者電腦教育]
+歡迎拜訪我的電腦教育公司網站  
+Welcome to visit my business web of computer education  
+[編夢者電腦教育 DreamCoder]
 
 ![Business Card - 1](/assets/BC-1.png)
 ![Business Card - 2](/assets/BC-2.png)
+
+### 我最親愛的家庭
+Let me introduce my awesome family and I love them so so so much~~~  
+My mom, my dad, my sister and me :blush: :kissing_heart:  
+![黃家庭](/assets/about-family.jpg)
 
 ### @tomyhhc 名言  
 * “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success! 別讓任何人駭走你的夢想！編好程式藍圖～檢測心思～為成功而奮鬥！” - 2019/7/6
@@ -44,13 +56,6 @@ Right after graduated from BYU, I decided to be an entrepreneur in Taiwan!
 - Outstanding Life Entrepreneur 
 - Incredible DreamWalker of White Hacker / Investor
 
-I have a wonder family and I love them so so so much~~~ :kissing_heart:  
-Let me introduce them to u!  
-My mom, my dad, my sister and me.  
-![黃家庭](/assets/about-family.jpg)
-
-
-
 <!--and a sweet baby~ :heart_eyes:-->
 <!--<div id="babe-img">-->
 <!--    <img src="{{ site.url }}/assets/my-love.jpg" alt="My beloved babe">-->
@@ -62,6 +67,4 @@ My mom, my dad, my sister and me.
 <!--<div class='right-heart heart animated css'></div> -->
 <!--</div>-->
 
-Nice to meet u & hope you enjoy my website :blush:
-
-[編夢者電腦教育]: https://tomyhhc.com
+[編夢者電腦教育 DreamCoder]: https://tomyhhc.com

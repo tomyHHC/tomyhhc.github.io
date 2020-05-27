@@ -23,17 +23,17 @@ description: A cool handsome Taiwanese guy
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Experience:
-  - Legend: "legend"
-  - Achieve: "achieve"
-  Opportunity:
+  About Me 介紹: "aboutme"
+  Experience 經驗:
+  - Legend 傳說: "legend"
+  - Achieve 成就: "achieve"
+  Opportunity 機會:
   - 編夢者電腦教育: "dreamcoder"
   - 財富教育: "wealthEdu"
   - Riway 力匯: "riway"
   - Amway 安麗: "amway"
-  - Cryptocurrency: "cryptocurrency"
-  Contact: "contact"
+  - Crypto 虛擬貨幣: "cryptocurrency"
+  Contact 聯絡: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -84,7 +84,9 @@ social-network-links:
 #  rss: true
   email: tomy830710@gmail.com
   facebook: tomyhhc
-  github: tomyhhc
+  instagram: tomyhhc
+  youtube: channel/UChdUw8Xlo5LDy85R-OneKcg
+#  github: tomyhhc
   linkedin: tomyh
 #  twitter: daattali
 #  reddit: yourname
@@ -92,8 +94,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  youtube: user/黃祥集
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
