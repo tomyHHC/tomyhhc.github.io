@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Freaking Awesome
+subtitle: Freaking Awesome 
 bigimg: /assets/dragon-sky.jpg    #goku-last-skill-dragon-balls.jpg
+# <script src="{{ site.url }}/js/astrid.js"></script>
 ---
-<script src="{{ site.url }}/js/astrid.js"></script>
 
 My name is 黃祥集 Hsiang Chi Huang, call me 'Tomy' or call me tonight :smile: 
 
