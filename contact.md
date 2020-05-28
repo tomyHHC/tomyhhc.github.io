@@ -32,9 +32,9 @@ Message: <br>
 * Phone: (886) 963-660-838
 * Telegram: @tomyhhc
 * Line: @handsometomy 
+* Linkedin: [tomyh](https://www.linkedin.com/in/tomyh/)
+* Facebook: [@Tomy Hsiang Chi Huang](https://www.facebook.com/tomyhhc)
 * Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)
-* Facebook: [www.facebook.com/tomyhhc](https://www.facebook.com/tomyhhc)
-* Linkedin: [www.linkedin.com/in/tomyh/](https://www.linkedin.com/in/tomyh/)
 
 ![黃上](/assets/kingTomy.JPG)
 
