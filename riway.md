@@ -5,20 +5,24 @@ subtitle: 鹿胎盤｜幹細胞
 bigimg: /assets/break-limit.jpg
 image: /assets/amwayFF/coverphoto.jpg
 avatar: /assets/amwayFF/coverphoto.jpg
+
+# Button
+#<div style="margin: auto; width: 100%; text-align: center;">
+#<button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Email</button>
+#</div>
 ---
 
-許多人一聽到直銷/傳銷公司與人員，就避而遠之，為什麼？我一直對這個問題感到很好奇？  
-因為不想被推銷？覺得他們很煩？覺得都是騙人？  
+許多人一聽到直銷/傳銷公司與人員，就避而遠之，為什麼？我一直對這個問題感到很好奇？因為不想被推銷？覺得他們很煩？覺得都是騙人？  
+
 或許如此，不過讓我們換個觀點想看看，  
 <b>若我說您從以前到現在，生活中一直都在接觸直銷，您相信嘛？</b>
 
-郵寄餐廳/商場DM廣告、Facebook/Instagram 廣告、廣播電台、商場賣家、菜市場、餐廳等等，大都是「直效行銷」（直銷）；
-再換個角度想一下，<b>為什麼會有那麼多人抱怨，甚至上告，許多廠商廣告不實、產品無效、不良產品？各自為產品金錢利益而戰？</b>  
+郵寄餐廳/商場DM廣告、Facebook / Instagram 廣告、廣播電台、商場賣家、菜市場、餐廳等等，大都是「直效行銷」（直銷）；再換個角度想一下，<b>為什麼會有那麼多人抱怨，甚至上告，許多廠商廣告不實、產品無效、不良產品？各自為產品金錢利益而戰？</b>  
 
 上述傳統直銷有像現代直銷人員那樣<b>勤奮地介紹與推廣產品詳細資訊與健康知識，渴望幫助您改善生活品質，若您願意，甚至提供「獎金回饋制度」＆「創業機會」嘛？</b>  
 
 
-我是一名[耶穌基督後期聖徒教會]的成員，經過多方研究，最後選定做兩個公司Amway & Riway之傳銷創業，就好比如我經過教會認識到神的良善，渴望跟大家分享福音的美好一樣，希望能夠幫助更多人得到生活的昇華！不僅學習「健康」、「創業」、「社交」、「領導」等各種專業知識，也能享用信任的產品，更有機會創造屬於自己的資產，擁有現金流進帳！何樂而不為！:smile:
+我是一名[耶穌基督後期聖徒教會]的成員，經過多方研究，最後選定做兩個公司Amway & Riway之傳銷創業，就好比如我認識教會體會到神的良善，渴望跟大家分享福音的美好一樣，希望能夠幫助更多人得到生活的昇華！不僅學習「健康」、「創業」、「社交」、「領導」等各種專業知識，也能享用信任的產品，更有機會創造屬於自己的資產，擁有現金流進帳！何樂而不為！:smile:
 
 <b>您的態度將決定您的命運！</b>
 
@@ -44,15 +48,13 @@ Riway願景：透過優質的品牌，讓更多人享有更美好的生活，提
 
 ### PURTIER Placenta Sixth Edition 鹿胎盤幹細胞 第六代
 
-您知道什麼是「幹細胞」嘛？  
+什麼是「幹細胞」？  
+
 幹細胞為所有生物（器官）的原始型態，當精子與卵子結合，成為人的第一個幹細胞，經由不斷細胞分裂發展，進而發展出生體各種細胞與器官，最後成為人體．
 
-「瑞士胎盤素注射」與「幹細胞移植手術」通常得花上數十萬美金的醫療費，  
-近幾年的醫學科技突破，使人們有機會以服用的方式得到幹細胞的療效！  
-這項科技，已經逐漸改變人們的健康與未來！
+「瑞士胎盤素注射」與「幹細胞移植手術」通常得花上數十萬美金的醫療費，近幾年的醫學科技突破，使人們有機會以服用的方式得到幹細胞的療效！這項科技，已經逐漸改變人們的健康與未來！
 
-數以百萬人已服用過，營養輔助品中的第一品牌  
-滋補、預防、調養、維持、滋養、保護力，唯一做到<b>全方位</b>營養補助品的功能！
+數以百萬人已服用過，營養輔助品中的第一品牌！滋補、預防、調養、維持、滋養、保護力，唯一做到<b>全方位</b>營養補助品的功能！
 
 <div class="embed-video">
 <iframe src="https://www.youtube.com/embed/4lazUdJ8jho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -78,10 +80,6 @@ Riway願景：透過優質的品牌，讓更多人享有更美好的生活，提
 
 若您「對產品有興趣」或「渴望創業」，歡迎隨時聯絡！ :smile:  
 （頁底連結or右上角之聯絡Contact頁面）
-<!--Button
-<div style="margin: auto; width: 100%; text-align: center;">
-<button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Email</button>
-</div>-->
 
 [Riway 力匯]: https://web.riway.com/zh-hant/about-us/introduction/
 [耶穌基督後期聖徒教會]: https://www.churchofjesuschrist.org/?lang=zho

@@ -45,7 +45,8 @@ My mom, my dad, my sister and me :blush: :kissing_heart:
 * “We are not machines but live like robots more than robots. If we only accept commands and finish jobs without knowing why, how and what to live, we will never know and feel beauty of life! 我們不是機器卻活得比機器人更像機器人。如果我們只一昧地接受指令跟完成眼前工作～而不去尋求為何而生～如何生活～何為人生～我們將無法體會人生之精彩！” - 2019/11/23
 * “Everyone is a talented entrepreneur. But if we teach by only giving commands without love from heart, most people will never change and live like a robot until death; 每個人都是天才創業家. 但假如我們只透過命令來教導，卻缺乏來自心中的愛，大部分的人們根本不會有任何改變，並活得像個機器人直到死亡。“ -  2019/11/23
 * “No matter how rich or poor we all may have money but not wealth;  不管多貧窮或富有，我們都可有錢，卻沒擁有財富。” - 2020/4/11
-* “Life is hard… money seems everything…but I have things money cannot buy~like beloved family & friends!” - 2020/4/17
+* “Life is hard… money seems everything…but I have things money cannot buy~like beloved family & friends! 人生艱難...金錢似乎就是一切...但我有金錢買不到的東西～好比如 親愛的家人&朋友。” - 2020/4/17
+* “In my life of being a mentor, I never meet stupid students, but only good students who either do not work hard or fight for dreams! 在我的導師生涯中，我沒遇過笨學生，只有『不肯努力』和『為夢想而奮鬥』的好學生！” - 2020/4/17
 
 ### My goals:  
 - Fantastic Latter Day Saint of Jesus Christ
