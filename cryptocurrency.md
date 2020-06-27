@@ -65,6 +65,9 @@ Activity：When you buy or sell $100 of crypto, you get $10 in free Bitcoin.
 
 [Stellar Lumens/XLM]
 
+每個免費虛擬貨幣名額只有4人  
+Each one can only be shared to 4 people
+
 ---
 
 ### 虛擬貨幣特色
