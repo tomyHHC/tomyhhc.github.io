@@ -166,3 +166,9 @@ avatar: /assets/bitcoin.png
 <div style="margin: auto; width: 100%; text-align: center;">
 <button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Email</button>
 </div>
+
+我們之前有過驚天動地的一晚  
+一晚關於「現金流」之財富桌遊 :smile:  
+歡迎您加入財富教育社團一起學習進步！
+
+:point_right: Facebook: [DreamWalker 夢行者之財富教育](https://www.facebook.com/groups/dreamwalker.wealth.education/)

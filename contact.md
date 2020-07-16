@@ -6,13 +6,13 @@ bigimg: /assets/one-piece.jpg
 ---
 
 **很開心您的來訪！希望您享受其中！  
-若有任何疑問或需要幫忙～歡迎隨時與我聯絡～也可以交個朋友！** :wink:  
+若有任何疑問或需要幫忙～歡迎隨時與我聯絡～交個朋友！** :wink:  
 **Thank you for spending time viewing my website! Hope you enjoy it!  
 Welcome to contact me anytime if having any question or need any help~and let's become friends!**
 
 
 以下有不同方式可以與我聯絡，  
-可以留資訊給我～或者使用每個頁底的連結 :smiley:  
+可以於下方填寫資料～或者使用每個頁底的連結 :smiley:  
 Here are the ways that you can reach out to me,  
 through contact form below, or social icons at the botton of each page 
 
@@ -29,11 +29,11 @@ Message: <br>
 
 ---
 
-* Phone: (886) 963-660-838
-* Telegram: @tomyhhc
-* Line: @handsometomy 
-* Linkedin: [tomyh](https://www.linkedin.com/in/tomyh/)
+* Phone & Telegram: (886) 963-660-838
 * Facebook: [@Tomy Hsiang Chi Huang](https://www.facebook.com/tomyhhc)
+* Instagram: [@tomyhhc](https://www.instagram.com/tomyhhc/)
+* Line: [@handsometomy](https://line.me/ti/p/2CstKzHlCK) 
+* Linkedin: [tomyh](https://www.linkedin.com/in/tomyh/)
 * Email: [tomy830710@gmail.com](mailto:tomy830710@gmail.com)
 
 ![黃上](/assets/kingTomy.JPG)
