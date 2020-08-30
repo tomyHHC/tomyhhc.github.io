@@ -24,16 +24,17 @@ description: A cool handsome Taiwanese guy
 # List of links in the navigation bar
 navbar-links:
   About Me 介紹: "aboutme"
-  Experience 經驗:
-  - Legend 傳說: "legend"
-  - Achieve 成就: "achieve"
-  Opportunity 機會:
+  Eduucation 教育:
   - 編夢者電腦教育: "dreamcoder"
   - 財富教育: "wealthEdu"
+  - 電腦手機實用技巧: "computer-skills"
+  Opportunity 機會:
   - Riway 力匯: "riway"
   - Amway 安麗: "amway"
   - Crypto 虛擬貨幣: "cryptocurrency"
-  - 電腦實用技巧: "computer-skills"
+  Experience 經驗:
+  - Legend 傳說: "legend"
+  - Achieve 成就: "achieve"
   Contact 聯絡: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

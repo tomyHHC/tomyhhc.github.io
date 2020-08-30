@@ -17,6 +17,10 @@
 <lastmod>2020-05-17T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/google_drive_files_intro_post</loc>
+<lastmod>2020-08-30T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/hdmi_phone_tv_post</loc>
 <lastmod>2020-08-30T00:00:00+00:00</lastmod>
 </url>
@@ -73,5 +77,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/wealthEdu/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

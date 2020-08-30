@@ -1,58 +1,52 @@
 ---
 layout: post
-title:  在電視上同步手機螢幕
-subtitle: 不論任何手機品牌都能做到
-permalink: /hdmi_phone_tv_post
+title:  Google雲端硬碟之五強大檔案介紹
+subtitle: 善用每一種檔案強大功能
+permalink: /google_drive_files_intro_post
 tags: [dreamcoder]
 bigimg: /assets/DreamCoder/dc.computer.jpg
 image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
 
-常常需要投影手機螢幕，想盡辦法卻都做不到？  
-不用擔心，只要照著以下方法，  
-不管教課or分享資訊，  
-不管安卓or蘋果手機，  
-都能輕鬆容易做到！
+[Google 文件](#製作檔案/資料夾)
+[Google 試算表]  
+Google 簡報  
+Google 表單  
+[Google 協作平台](#創建Google-表單)
 
-[申請預約]
-
-```
-產品：三合一HDMI台製傳輸線 $590
-
-彰三遊戲規則: 
-1. 若想借用，請先點擊上方[申請預約]
-2. 於每次使用完時，物歸原位，也請守密
-3. 請好好愛惜使用！
-```
-
-![1](/assets/computer-skills/hdmi-phone-tv/1.jpg)
+聽說，這些檔案並不會佔用您的雲端空間哦 :wink:
 
 ---
 
-#### 三合一HDMI傳輸線
+#### 製作檔案/資料夾
 
-![1](/assets/computer-skills/hdmi-phone-tv/4.jpg)
+![1](/assets/computer-skills/google_drive_files_intro/unnamed-2.png)
 
 #### 左邊那一端插入電視Hdmi插槽
 
-![1](/assets/computer-skills/hdmi-phone-tv/3.jpg)
+
+![1](/assets/computer-skills/google_drive_files_intro/unnamed-2.png)
 
 #### 最右邊那一端插入插座
 
-![1](/assets/computer-skills/hdmi-phone-tv/2.jpg)
+
+![1](/assets/computer-skills/google_drive_files_intro/unnamed-2.png)
 
 #### 此時此景
 
-![1](/assets/computer-skills/hdmi-phone-tv/8.jpg)
+
+![1](/assets/computer-skills/google_drive_files_intro/unnamed-2.png)
 
 #### 最後～請將自身手機充電線插入中間那一端插槽
 
-![1](/assets/computer-skills/hdmi-phone-tv/6.jpg)
 
-#### Magic！此時看電視螢幕，你將看到奇蹟！
+![1](/assets/computer-skills/google_drive_files_intro/unnamed-2.png)
 
-![1](/assets/computer-skills/hdmi-phone-tv/7.jpg)
+#### 創建Google 表單
+
+
+![1](/assets/computer-skills/google_drive_files_intro/unnamed-2.png)
 
 ---
 
