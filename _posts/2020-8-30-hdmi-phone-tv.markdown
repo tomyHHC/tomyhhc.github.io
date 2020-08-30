@@ -34,7 +34,7 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ![1](/assets/computer-skills/hdmi-phone-tv/4.jpg)
 
-#### 左邊那一端插入電視Hdmi插槽
+#### 左邊那一端插入電視HDMI插槽
 
 ![1](/assets/computer-skills/hdmi-phone-tv/3.jpg)
 
@@ -54,10 +54,13 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ![1](/assets/computer-skills/hdmi-phone-tv/7.jpg)
 
+希望以上的分享有幫助到您！:smiley:  
+若有任何問題～歡迎使用網頁最下方之連結～與我聯絡哦！:wink:
+
 ---
 
 想成為強大電腦工程師？或學一技之長！？  
-歡迎追蹤「編夢者」，獲得更多科技與活動消息！  
+歡迎追蹤「編夢者」，獲得更多科技/技巧/活動/娛樂之最新消息！  
 也歡迎您來參與編夢者線上座談會，我們讓您站在科技巨人上，眺望古今未來！:wink:
 
 :point_right: 官方網站：[編夢者 DreamCoder]  
