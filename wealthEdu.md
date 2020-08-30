@@ -20,7 +20,7 @@ avatar: /assets/bitcoin.png
 「信用卡貸款」v.s「就學貸款」，  
 何者負債金額較高？
 
-![student-debt](/assets/student-debt.png)
+![student-debt](/assets/wealthedu/student-debt.png)
 
 信用卡貸款：1兆美金左右  
 就學貸款： 近1.6兆美金  
@@ -49,7 +49,7 @@ avatar: /assets/bitcoin.png
 
 這是您想要過的幾十年人生嘛？
 
-![us-unemployee-rate](/assets/us-unemployee-rate.png)
+![us-unemployee-rate](/assets/wealthedu/us-unemployee-rate.png)
 
 2020年新冠病毒爆發，美國4月失業率統計高達14.7%，破歷史紀錄！失業人數高達4千萬！  
 
@@ -83,7 +83,7 @@ avatar: /assets/bitcoin.png
 
 <b>Ω 美國股市Dow Jones</b>  
 
-![stock-indicate](/assets/stock-indicate.png)
+![stock-indicate](/assets/wealthedu/stock-indicate.png)
 
 2020/3/12 :chart_with_downwards_trend: 2352.6點 (-9.99%)  
 2020/3/16 :chart_with_downwards_trend: 2997.1點 (-12.93%)，史上美國股市第二慘跌日  

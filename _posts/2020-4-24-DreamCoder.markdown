@@ -6,8 +6,8 @@ ID: "DreamCoder"
 permalink: /DreamCoder_post
 tags: [business, entrepreneur, dreamcoder]
 bigimg: /assets/break-limit.jpg
-image: /assets/dreamcoder.jpg
-avatar: /assets/dreamcoder.jpg
+image: /assets/DreamCoder/dreamcoder.jpg
+avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
 
 ![Dreamcoder logo](/assets/dreamcoder.jpg)
@@ -55,7 +55,7 @@ avatar: /assets/dreamcoder.jpg
 
 <b>機會</b> :gift_heart:
 
-![2020 職缺統計](/assets/2020-computer-job-stat.png)
+![2020 職缺統計](/assets/DreamCoder/2020-computer-job-stat.png)
 
 根據104人力銀行2020年2月之統計，  
 每個人有「3.31」個工作機會，  

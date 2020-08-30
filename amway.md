@@ -33,7 +33,7 @@ avatar: /assets/amwayFF/coverphoto.jpg
 
 Amway願景：幫助人們過更好的生活。
 
-![Amway web](/assets/amway.png)
+![Amway web](/assets/amwayFF/amway.png)
 
 - 美國創始於1959年（60年的品牌）
 - 全球第一傳銷公司

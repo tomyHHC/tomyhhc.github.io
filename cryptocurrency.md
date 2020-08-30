@@ -39,7 +39,7 @@ Activity：Earn up to 40% commission every time your friends make a trade on Bin
 
 註冊帳戶：[Binance Register]
 
-![binance-ref](/assets/binance-ref.jpg)
+![binance-ref](/assets/crypto/binance-ref.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ Activity：When you buy or sell $100 of crypto, you get $10 in free Bitcoin.
 
 註冊帳戶：[Coinbase Register]
 
-![coinbase-ref](/assets/coinbase.png)
+![coinbase-ref](/assets/crypto/coinbase.png)
 
 ---
 

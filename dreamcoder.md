@@ -3,11 +3,11 @@ layout: page
 title: DreamCoder 編夢者
 subtitle: Computer Education 電腦教育
 bigimg: /assets/break-limit.jpg
-image: /assets/dreamcoder.jpg
-avatar: /assets/dreamcoder.jpg
+image: /assets/DreamCoder/dreamcoder.jpg
+avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
 
-![Dreamcoder logo](/assets/dreamcoder.jpg)
+![Dreamcoder logo](/assets/DreamCoder/dreamcoder.jpg)
 
 ```
 願景: 
@@ -44,7 +44,7 @@ avatar: /assets/dreamcoder.jpg
 
 詳細分析可點此 [編夢者文章連結]
 
-![Dreamcoder computer](/assets/dc.computer.jpg)
+![Dreamcoder computer](/assets/DreamCoder/dc.computer.jpg)
 
 ### 台灣第一家全線上即時互動視訊創新電腦教育
 

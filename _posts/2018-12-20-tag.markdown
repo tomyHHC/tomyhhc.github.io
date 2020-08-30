@@ -14,7 +14,7 @@ tag-network-links:
   yelp: ""
   email: tomy830710@gmail.com
 permalink: /Taiwan-Awesome-Ghicken
-tags: [entrepreneur, business, fried ghicken, USA]
+tags: [entrepreneur, business]
 bigimg: /assets/TAG/tag_cover.jpg
 image: /assets/logo/TAG_Logo.png
 avatar: /assets/logo/TAG_Logo.png

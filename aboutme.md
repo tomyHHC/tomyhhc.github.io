@@ -48,13 +48,13 @@ Right after graduated from BYU, I decided to go back to Taiwan and be an entrepr
 Welcome to visit the web of computer education business 
 <b>[編夢者電腦教育 DreamCoder] - 台灣第一家「全線上」即時互動視訊電腦教育</b>
 
-![Business Card - 1](/assets/BC-1.png)
-![Business Card - 2](/assets/BC-2.png)
+![Business Card - 1](/assets/aboutme/BC-1.png)
+![Business Card - 2](/assets/aboutme/BC-2.png)
 
 ### 我最親愛的家庭
 Let me introduce my awesome family and I love them so so so much~~~ :blush: :kissing_heart:    
 （My mom, my dad, my sister and me）
-![黃家庭](/assets/about-family.jpg)
+![黃家庭](/assets/aboutme/about-family.jpg)
 
 ### @tomyhhc 名言  
 * “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success!  

@@ -38,7 +38,7 @@ avatar: /assets/amwayFF/coverphoto.jpg
 
 Riway願景：透過優質的品牌，讓更多人享有更美好的生活，提供所有人實現夢想與目標的平台。我們為您提供最正確的創業平台，提倡正面文化以及力匯國際標誌上象徵著我們的6大核心價值觀，讓您能擁有非凡自由的人生。
 
-![Riway vision](/assets/riway.png)
+![Riway vision](/assets/riway/riway.png)
 
 自2007年，13年以來，Purtier產品不斷研發更新，目前已研發至第六代，其「產品價錢」＆「公司傳銷系統制度」<b>一直沒變過</b>！（很多傳銷公司會因為賺多錢而改變，Riway沒有）
 
