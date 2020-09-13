@@ -7,6 +7,8 @@ image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
 
+![Dreamcoder logo](/assets/DreamCoder/dreamcoder.jpg){:height="200px"}
+
 ```
 願景: 
 在資訊時代之江湖，讓每一位電腦編程之夢想家，有一席之地 ！  
@@ -20,18 +22,20 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ### 手機
 
-[在電視上同步手機螢幕]
+* [在電視上同步手機螢幕]
+
+--- 
 
 ### 電腦
 
-[Google雲端硬碟之五強大檔案介紹]
+* [Google雲端硬碟之五強大檔案介紹]
 
 ---
 
-### 台灣第一家全線上即時互動視訊創新電腦教育
+### 台灣第一家『全線上』即時互動視訊電腦教育
 
 想成為強大電腦工程師？或學一技之長！？  
-歡迎追蹤「編夢者」，獲得更多科技/技巧/活動/娛樂之最新消息！  
+歡迎追蹤[編夢者 DreamCoder]，獲得更多科技/技巧/活動/娛樂之最新消息！  
 也歡迎您來參與編夢者線上座談會，我們讓您站在科技巨人上，眺望古今未來！:wink:
 
 :point_right: 官方網站：[編夢者 DreamCoder]  

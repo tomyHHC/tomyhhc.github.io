@@ -6,8 +6,8 @@ permalink: /legend
 bigimg: /assets/naruto-shippuden.jpg #legend-cover.jpg
 ---
 <div style="text-align: center;">
-<div style="font-size: 40px;">Tomy Hsiang Chi Huang</div>
-<div style="font-size: 18px; font-weight: 100;">Dream Walker of White Hacker || Augmented & Virtual Reality Developer || Entrepreneur</div>
+<div style="font-size: 40px; font-weight: bold;">Tomy Hsiang Chi Huang</div>
+<div style="font-size: 18px; font-weight: 100;">DreamWalker of White Hacker｜Educator｜Entrepreneur｜Developer</div>
 </div>
 
 # Education

@@ -1,62 +1,111 @@
 ---
 layout: page
-title: 關於Tomy
+title: About Tomy
 subtitle: Freaking Awesome!!! 
 bigimg: /assets/dragon-sky.jpg    #goku-last-skill-dragon-balls.jpg
 # <script src="{{ site.url }}/js/astrid.js"></script>
 ---
 
-My name is 黃祥集 Hsiang Chi Huang, call me 'Tomy' or just call me tonight :smile: 
+<b name="top">【Tomy 小幫手】</b>  
+[自我介紹](#自我介紹)  
+[願景與使命](#願景與使命)  
+[我最親愛ㄟ家庭](#我最親愛ㄟ家庭)  
+[@tomyhhc 名言](#tomyhhc-名言)  
+
+## 自我介紹
+
+Yo~哩賀！我是黃祥集 Tomy！  
+My name is Hsiang Chi Huang, call me 'Tomy' or just call me tonight :smile: 
 
 My major 主修 is Computer Science 計算機科學  
 and minor 副修 in Business  Management 商業管理  
-@ Brigham Young University - Provo 楊百翰大學.  
+@ Brigham Young University - Provo 楊百翰大學  
 
 I'm a cool Taiwanese guy 帥帥台灣人,  
+a latter-day saint of the church of Jesus Christ 耶穌基督後期聖徒,  
 an Augmented & Virtual Reality Developer 虛擬實境電腦工程師,  
 an educator 教育家 / entrepreneur 創業家 / investor 投資者,  
 and a DreamWalker of Hacker 駭客夢行者 :sunglasses:
 
-就在2020年四月從楊百翰大學畢業～我毅然決然地回台灣創業～成為一位「創業家」與「教育家」!  
-Right after graduated from BYU, I decided to go back to Taiwan and be an entrepreneur & educator!
+就在2020年四月我從楊百翰大學畢業  
+毅然決然地回台灣   
+Right after graduated from BYU on April 2020, I flew to Taiwan.
 
-<b>我最常遇到的問題是「為什麼不留在美國要回來台灣？」</b>  
-我的回答是「我要創業～我有夢想！我擁有大部分的人沒有的知識與心態～我能夠為台灣服務！我會成功！」
+**我最常遇到的問題是「為什麼不留在美國而是回來台灣？」**  
+我的回答是：  
+「我有夢想！我要創業並發揚光大！  
+我擁有大部分人所沒有的知識與心態  
+我能夠為台灣＆世界更多人服務！  
+而且  
+我會成功！
+不僅我會變得快樂與自由  
+我所服務的人生活會變得更美好！  
+世界會變得更美麗！」
 
-我是一名「電腦」&「財富」導師  
-古代的人為囉知識命運努力拜師；現代的人為囉生活快樂盡力拜金  
-我認為教育並不只是制式化學習追求...真正的教育是能夠讓人思考學習其中的智慧並運用在生活中！  
-當我們擁有正確的知識～財富自然相隨！
+我是一名『電腦』&『英文』&『財富』導師  
+古代的人為囉知識命運努力拜師；  
+現代的人為囉生活快樂盡力拜金  
+**我認為教育並不只是制式化學習追求...**  
+**真正的教育是能夠讓人思考學習其中的智慧並運用在生活中！**  
+**當我們擁有正確的知識**  
+**財富自然相隨！**
 
-在玩現金流之前～許多人卻而遠之～因為沒接受過財富教育  
-不知道不清楚不明白～因而有些排斥；  
-不過在玩之後～到目前為止～說真的～  
+比如在玩**現金流**(一款理財投資遊戲)之前  
+許多人卻而遠之...為什麼？  
+因為大多數人沒接受過財富教育  
+不知道不清楚不明白
+因無知而感到恐懼所以排斥；  
+不過在玩之後  
+說真的到目前為止  
 我還沒遇過一位說討厭此款桌遊之人！  
 每一個人都超愛！欲罷不能！無一例外！  
-因為這場財富遊戲～讓他們看見世界的新一面！  
-因為他們得到的知識與經驗是無價的！  
-接受到從來沒接受過之真正財富教育！
+**因為這場財富遊戲～讓他們看見世界的新一面！**  
+**因為他們得到的知識與經驗是無價的！**  
+**接受到從來沒接受過之真正財富教育！**
 
-身為「教育家」  
-我的使命是協助人們獲得正確的知識～有能力去思考解決問題～學以致用於生活中！  
-願景是人們有能力改變其人生命運，朝夢想勇往前邁進！
+[回頂端](#top) 
 
-<b>財富教育</b>～可能需要點時間準備  
-<b>編夢者電腦教育</b>  正式啟航！
+---
 
-歡迎拜訪我的電腦教育公司網站  
-Welcome to visit the web of computer education business 
-<b>[編夢者電腦教育 DreamCoder] - 台灣第一家「全線上」即時互動視訊電腦教育</b>
+## 願景與使命
+
+**身為『創業教育家』**  
+**【使命】**  
+**協助人們獲得正確的知識**  
+**有能力去思考解決問題**  
+**學以致用於生活中！**  
+**【願景】**  
+**使人們有能力改變其人生命運**  
+**朝夢想勇往前邁進！**
+
+**【夢行者財富教育】**可能需要點時間準備  
+**【編夢者電腦教育】**  正式啟航！
+
+歡迎經常拜訪我的電腦教育公司網站  
+Welcome to visit the web of computer education business  
+**[編夢者電腦教育 DreamCoder] - 台灣第一家『全線上』即時互動視訊電腦教育**
 
 ![Business Card - 1](/assets/aboutme/BC-1.png)
 ![Business Card - 2](/assets/aboutme/BC-2.png)
 
-### 我最親愛的家庭
+[回頂端](#top) 
+
+---
+
+## 我最親愛ㄟ家庭
+
+**讓我來為您介紹我的超超超讚家庭**  
+**我超超超超超愛他們！**  
 Let me introduce my awesome family and I love them so so so much~~~ :blush: :kissing_heart:    
 （My mom, my dad, my sister and me）
 ![黃家庭](/assets/aboutme/about-family.jpg)
 
-### @tomyhhc 名言  
+[回頂端](#top) 
+
+---
+
+## @tomyhhc 名言
+
 * “Don’t let anyone hack your dream! Program, debug your mind & heart, and run it for success!  
 別讓任何人駭走你的夢想！編好程式藍圖～檢測心思～為成功而奮鬥！” - tomyhhc 2019/7/6
 * “Every successful leader talks about one thing. That thing is called 'dream';  
@@ -88,24 +137,6 @@ Let me introduce my awesome family and I love them so so so much~~~ :blush: :kis
 * “Knowledge is power; knowledge and dream can change destiny! However, you must know how to use it at first.  
 知識就是力量，知識加夢想可以改變命運！前提是，你要懂的如何運用。” - tomyhhc 2020/6/27
 
-<!-- ### My goals:  
-- Fantastic Latter Day Saint of Jesus Christ
-- Family-Lover Son
-- Beloved Father
-- Sweet & loving Family
-- Extraordinary Computer Expert
-- Outstanding Life Entrepreneur 
-- Incredible DreamWalker of White Hacker / Investor -->
-
-<!--and a sweet baby~ :heart_eyes:-->
-<!--<div id="babe-img">-->
-<!--    <img src="{{ site.url }}/assets/my-love.jpg" alt="My beloved babe">-->
-<!--    <img id="baby" onclick="secretTalk()" src="{{ site.url }}/assets/about-astrid.JPG" alt="My babe">-->
-<!--</div>-->
-<!---->
-<!--<div id="two-heart" style="display: none;">-->
-<!--<div class='left-heart heart animated css'></div> -->
-<!--<div class='right-heart heart animated css'></div> -->
-<!--</div>-->
+[回頂端](#top) 
 
 [編夢者電腦教育 DreamCoder]: https://tomyhhc.com

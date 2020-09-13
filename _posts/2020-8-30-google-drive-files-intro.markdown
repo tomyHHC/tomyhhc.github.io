@@ -9,9 +9,7 @@ image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
 
-## Section 連結
-<a name="top"></a>
-
+<b name="top">【Tomy 小幫手】</b>  
 [製作檔案/資料夾](#making-files)  
 [分享檔案/資料夾](#sharing-files)  
 [Google 文件](#word)  

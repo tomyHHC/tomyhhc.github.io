@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  DreamCoder 編夢者 
-subtitle: 台灣第一家全線上即時互動視訊創新電腦教育
+subtitle: 台灣第一家『全線上』即時互動視訊電腦教育
 ID: "DreamCoder"
 permalink: /DreamCoder_post
 tags: [business, entrepreneur, dreamcoder]
@@ -10,7 +10,7 @@ image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
 
-![Dreamcoder logo](/assets/dreamcoder.jpg)
+![Dreamcoder logo](/assets/DreamCoder/dreamcoder.jpg){:height="200px"}
 
 ```
 願景: 

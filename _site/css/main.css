@@ -952,6 +952,11 @@ div.gallery img {
     height: 455px;
 }
 
+/*details*/
+summary:hover {
+    cursor: pointer;  
+}
+
 /*heart*/
 /* Most of the heart's CSS came from the Shapes of CSS  */
 /* https://css-tricks.com/examples/ShapesOfCSS/          */
