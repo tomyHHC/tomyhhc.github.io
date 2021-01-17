@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  DreamCoder 編夢者 
-subtitle: 台灣第一家『全線上』即時互動視訊電腦教育
+subtitle: 台灣首家『全線上』即時互動視訊電腦教育
 ID: "DreamCoder"
 permalink: /DreamCoder_post
 tags: [business, entrepreneur, dreamcoder]
-bigimg: /assets/break-limit.jpg
+bigimg: /assets/DreamCoder/channel.jpg
 image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
@@ -13,10 +13,10 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 ![Dreamcoder logo](/assets/DreamCoder/dreamcoder.jpg){:height="200px"}
 
 ```
-願景: 
+【願景】
 在資訊時代之江湖，讓每一位電腦編程之夢想家，有一席之地 ！  
 
-使命: 
+【使命】 
 以無私的愛與美好榜樣，傳授編程之智慧與正確之心態，
 激發潛能、賦予力量，準備好迎接夢想未來、快樂人生、光明成功！
 ```
@@ -82,16 +82,22 @@ AI資料科學家：122萬
 累積經歷 -> 資深工程師/團隊領導，百萬年薪不是什麼問題！  
 電腦領域廣大無邊，渴望找到您的興趣所在，做您熱愛的工作，收入無憂，同時過上更好品質的生活？
 
-我們不僅喜愛電腦高科技，同時也熱愛助人，十分樂意與您分享我們所擁有的知識和經驗！我們與各界擁有實際經驗之電腦軟體開發專家合作，一同合作組成專業導師團隊，創造「全線上」創新又具啟發成長性之「江湖實境」與「遊戲化」教育系統，從最基礎的電腦語言觀念技巧認識，到製作「網站」、「App」、「遊戲」、「資料庫」等等，帶您一步一步熟悉電腦虛擬世界及未來科技江湖！
+![Dreamcoder computer](/assets/DreamCoder/dc.computer.jpg)
 
-若您想瞭解更多詳情，想成為強大電腦工程師，或學一技之長，歡迎追蹤「編夢者」，我們願為您傳遞更多科技與電腦編程活動之消息！也歡迎您時常來參與編夢者線上座談會，我們將為您呈現更多精彩科技分析與數據！:wink:
+我們不僅喜愛電腦高科技，同時也熱愛助人，十分樂意與您分享我們所擁有的知識和經驗！我們與各界擁有實際經驗之電腦軟體開發專家合作，一同合作組成專業導師團隊，創造「全線上」創新又具啟發成長性之「江湖實境」與「遊戲化」教育系統！
+
+編夢者提供各式各樣的電腦課程，從最基礎的電腦語言觀念技巧認識，到製作「網站」、「App」、「遊戲」、「資料庫」等等，帶您一步一步熟悉電腦虛擬世界及未來科技江湖！
+
+若您想瞭解更多資訊，學一技之長，或成為專業電腦工程師，歡迎追蹤『[編夢者 DreamCoder]』，透過下方連結與我們聯絡！
+
 
 :point_right: 官方網站：[編夢者 DreamCoder]  
 :point_right: Faecbook：[編夢者 Facebook]  
+:point_right: Youtube：[編夢者 Youtube]  
+:point_right: Instagram： [編夢者 Instagram]  
+
 :point_right: Facebook 社團：[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]  
 :point_right: Facebook 社團：[編夢者-電腦工程師之駭客殿堂]  
-:point_right: Instagram： [編夢者 Instagram]  
-:point_right: Youtube：[編夢者 Youtube]
 
 
 [編夢者 DreamCoder]: https://tomyhhc.com

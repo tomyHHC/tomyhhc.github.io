@@ -2,7 +2,7 @@
 layout: page
 title: About Tomy
 subtitle: Freaking Awesome!!! 
-bigimg: /assets/dragon-sky.jpg    #goku-last-skill-dragon-balls.jpg
+bigimg: /assets/minions.jpg    #goku-last-skill-dragon-balls.jpg
 # <script src="{{ site.url }}/js/astrid.js"></script>
 ---
 
@@ -19,44 +19,43 @@ My name is Hsiang Chi Huang, call me 'Tomy' or just call me tonight :smile:
 
 My major 主修 is Computer Science 計算機科學  
 and minor 副修 in Business  Management 商業管理  
-@ Brigham Young University - Provo 楊百翰大學  
+@ [Brigham Young University - Provo] 楊百翰大學  
 
 I'm a cool Taiwanese guy 帥帥台灣人,  
-a latter-day saint of the church of Jesus Christ 耶穌基督後期聖徒,  
+a latter-day saint of the church of Jesus Christ [耶穌基督後期聖徒],  
 an Augmented & Virtual Reality Developer 虛擬實境電腦工程師,  
 an educator 教育家 / entrepreneur 創業家 / investor 投資者,  
-and a DreamWalker of Hacker 駭客夢行者 :sunglasses:
+and a DreamWalker Hacker 駭客夢行者 :sunglasses:
 
-就在2020年四月我從楊百翰大學畢業  
-毅然決然地回台灣   
-Right after graduated from BYU on April 2020, I flew to Taiwan.
+就在2020年四月從楊百翰大學畢業，  
+毅然決然地回台灣．  
+Right after graduated from BYU on April 2020, I flew back to Taiwan.
 
 **我最常遇到的問題是「為什麼不留在美國而是回來台灣？」**  
 我的回答是：  
-「我有夢想！我要創業並發揚光大！  
-我擁有大部分人所沒有的知識與心態  
-我能夠為台灣＆世界更多人服務！  
-而且  
-我會成功！
-不僅我會變得快樂與自由  
-我所服務的人生活會變得更美好！  
+「我有我的夢想！我想創業並發揚光大！  
+我擁有大部分人所沒有的＆對的知識與心態，  
+我相信我會成功！我能夠為台灣＆世界更多人服務！  
+
+不僅我會享受快樂、自由、平安、財富，  
+我所服務的人的生活也會變得更美好！  
 世界會變得更美麗！」
 
-我是一名『電腦』&『英文』&『財富』導師  
+我是一名『電腦』&『英文』&『財富』導師，  
 古代的人為囉知識命運努力拜師；  
-現代的人為囉生活快樂盡力拜金  
+現代的人為囉生活快樂盡力拜金．  
 **我認為教育並不只是制式化學習追求...**  
 **真正的教育是能夠讓人思考學習其中的智慧並運用在生活中！**  
 **當我們擁有正確的知識**  
 **財富自然相隨！**
 
-比如在玩**現金流**(一款理財投資遊戲)之前  
+比如在玩**現金流**(一款理財投資遊戲)之前，  
 許多人卻而遠之...為什麼？  
-因為大多數人沒接受過財富教育  
-不知道不清楚不明白
+因為大多數人沒接受過財富教育，  
+不知道不清楚不明白，  
 因無知而感到恐懼所以排斥；  
-不過在玩之後  
-說真的到目前為止  
+不過在玩之後，  
+說真的到目前為止，  
 我還沒遇過一位說討厭此款桌遊之人！  
 每一個人都超愛！欲罷不能！無一例外！  
 **因為這場財富遊戲～讓他們看見世界的新一面！**  
@@ -79,11 +78,11 @@ Right after graduated from BYU on April 2020, I flew to Taiwan.
 **朝夢想勇往前邁進！**
 
 **【夢行者財富教育】**可能需要點時間準備  
-**【編夢者電腦教育】**  正式啟航！
+**【[編夢者電腦教育]】**  正式啟航！
 
-歡迎經常拜訪我的電腦教育公司網站  
-Welcome to visit the web of computer education business  
-**[編夢者電腦教育 DreamCoder] - 台灣第一家『全線上』即時互動視訊電腦教育**
+歡迎經常拜訪編夢者網站！  
+Welcome to visit DreamCoder's website!  
+**[編夢者電腦教育 DreamCoder] - 台灣首家『全線上』即時互動視訊電腦教育**
 
 ![Business Card - 1](/assets/aboutme/BC-1.png)
 ![Business Card - 2](/assets/aboutme/BC-2.png)
@@ -140,3 +139,6 @@ Let me introduce my awesome family and I love them so so so much~~~ :blush: :kis
 [回頂端](#top) 
 
 [編夢者電腦教育 DreamCoder]: https://tomyhhc.com
+[編夢者電腦教育]: {{ site.url }}/dreamcoder
+[Brigham Young University - Provo]: https://www.byu.edu
+[耶穌基督後期聖徒]: https://www.churchofjesuschrist.org/?lang=zho

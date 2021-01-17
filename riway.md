@@ -2,7 +2,7 @@
 layout: page
 title: Riway 力匯
 subtitle: 鹿胎盤｜幹細胞
-bigimg: /assets/break-limit.jpg
+bigimg: /assets/riway/ocean-dream.jpg
 image: /assets/amwayFF/coverphoto.jpg
 avatar: /assets/amwayFF/coverphoto.jpg
 

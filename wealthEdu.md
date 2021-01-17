@@ -7,6 +7,13 @@ image: /assets/bitcoin.png
 avatar: /assets/bitcoin.png
 ---
 
+<b name="top">【Tomy 小幫手】</b>  
+[學校 School](#學校-school)  
+[工作 Job](#工作-job)  
+[負債 Debt](#負債-debt)  
+[美國股市 Dow Jones](#美國股市-dow-jones)   
+[錢，很重要嘛？](#錢很重要嘛) 
+
 「上好學校，追求高薪工作，貸款買車買房，長期投資股票」這是您正在實行的生存法則嘛 :interrobang:
 
 若是如此，我覺得您...很快就完蛋囉！  
@@ -15,7 +22,8 @@ avatar: /assets/bitcoin.png
 您是否瞭解您的<b>真實世界情況多嚴峻</b>？  
 我為您做囉詳細調查，花個5~10分鐘閱讀，可能改變您的整個觀點，甚至您的人生！
 
-<b>Ω 學校</b>  
+### 學校 School
+
 您覺得，在美國，  
 「信用卡貸款」v.s「就學貸款」，  
 何者負債金額較高？
@@ -34,7 +42,10 @@ avatar: /assets/bitcoin.png
 
 若您真心喜愛學校學習，我讚賞您的態度；若不是，您的目標為何？
 
-<b>Ω 工作</b>  
+[回頂端](#top) 
+
+### 工作 Job
+
 ```
 根據主計處，全年平均總薪資排名：  
 - 住宿服務業：NT $37,020  
@@ -59,7 +70,10 @@ avatar: /assets/bitcoin.png
 
 若這是您不願看到的人生場景，您曾想過如何行動嘛？
 
-<b>Ω 負債 Debt</b>  
+[回頂端](#top) 
+
+### 負債 Debt
+
 大多數人只受教導「上好學校」＆「得到好工作」，卻從沒有人問我們的「夢想」、「熱情」是什麼...  
 
 大多數人對金錢根本沒什麼概念，從沒接受過「財富教育」...<b>因為學校沒有教...父母可能也不知道...因為學校從沒教導...</b>  
@@ -81,7 +95,9 @@ avatar: /assets/bitcoin.png
 
 水能載舟，亦能覆舟。若懂的理財，正確運用「貸款」＆「稅法」，您知道您也能夠創造屬於您的財富？
 
-<b>Ω 美國股市Dow Jones</b>  
+[回頂端](#top) 
+
+### 美國股市 Dow Jones
 
 ![stock-indicate](/assets/wealthedu/stock-indicate.png)
 
@@ -119,9 +135,13 @@ avatar: /assets/bitcoin.png
 你的行為，決定你的人格，  
 你的人格，決定你的命運！</b>
 
+[回頂端](#top) 
+
 ---
 
-錢重要嘛？很多人覺得錢不重要，認為錢是萬惡根源，但我們的生活似乎都跟錢脫離不開關係...購買產品都會附贈使用說明書，奇怪的是，我們領薪水得到錢＆每天使用金錢，似乎從未被教導金錢知識，現代大多數人有財務問題不是沒有原因的...
+### 錢很重要嘛
+
+很多人覺得錢不重要，認為錢是萬惡根源，但我們的生活似乎都跟錢脫離不開關係...購買產品都會附贈使用說明書，奇怪的是，我們領薪水得到錢＆每天使用金錢，似乎從未被教導金錢知識，現代大多數人有財務問題不是沒有原因的...
 
 金錢很重要沒錯，但也僅僅只是個物品/交易媒介，  
 
@@ -137,11 +157,15 @@ avatar: /assets/bitcoin.png
 <iframe src="https://www.youtube.com/embed/fMbQUhawOGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+[回頂端](#top) 
+
+---
+
 相信您會讀到這裡，肯定是覺得以上所讀的訊息挺有趣對吧？希望讓您有所啟發！  
 
 我自己在美國做過2次自己創業、數次與人合作創業，以及各種投資，股票 Stock、虛擬貨幣 Cryptocurrency、房地產 Real Estate、多層次傳銷 Network Marketing Business，2020年回台創辦「編夢者電腦教育有限公司」，與很多人談過聊過，深知大多數的人對「理財」、「投資」、「創業」沒擁有「正確的知識」與「經驗」，所以決定奉獻我的生命於教育界，希望幫助更多人開始意識到問題所在，進而渴望學習正確知識與方法，轉換心態，改變行為，解決問題，最後<b>創造屬於您自己的永恆幸福命運！</b>
 
-在人生道路上，有一位導師的指引，成功機率肯定會提高！這也是為什麼許多成功人士都有他們的導師mentor，也稱為貴人，如Robert Kiyosaki - 富爸爸窮爸爸、川普Trump總統 - 他的爸爸．
+在人生道路上，有一位導師的指引，成功機率肯定會提高！這也是為什麼許多成功人士都有他們的導師mentor，也稱為貴人，如Robert Kiyosaki的導師-富爸爸窮爸爸、川普Trump總統的導師-他的爸爸Fred C. Trump．
 
 問題在於，  
 <b>您現在有導師在帶領您嘛？  
@@ -150,25 +174,30 @@ avatar: /assets/bitcoin.png
 
 我從不強迫人非得向我學習，只會引起反感，而且這世上比我更好更厲害的人很多，我更希望您找到最適合您的導師！
 
-我是一名創業投資者，也是一位「財富」導師，我向許多偉人，如Robert Kiyosaki、Harv Eker、Tony Robbins等領袖學習，我喜愛閱讀觀賞他們大部分的出書與影片！  
+我是一名創業投資者，也是一位「財富」導師，我向許多偉人，如Robert Kiyosaki、Harv Eker、Tony Robbins等成功人士學習，我喜愛閱讀觀賞他們大部分的出書與影片！  
 
 <b>若您覺得我是值得信任的，  
 若您不知熱情所在、不知如何行動，  
 若您想更瞭解現代各種問題，  
 若您渴求援助，希望得到正確的知識與指引，  
 好做正確的「理財」、「投資」、「創業」，達陣您的夢想人生，</b>  
-歡迎隨時聯絡！ :smile:  
-（頁底連結or右上角之聯絡Contact頁面）
+歡迎透過下方連結or右上角之聯絡Contact頁面與我聯絡！ :smile:  
+
+「每一位成功的領袖都在談論一件事物～那件事物～叫做『夢想』！」 - tomyhhc 2019/7/6 
 
 「我只幫助那些渴望改變的人～只有真心想改變的人才會改變！」 - tomyhhc 2019/8/2 
+
+「知識就是力量，知識加夢想可以改變命運！前提是，你要懂的如何運用！」 - tomyhhc 2020/6/27 
 
 <!--Button-->
 <div style="margin: auto; width: 100%; text-align: center;">
 <button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Email</button>
 </div>
 
-我們之前有過驚天動地的一晚  
+我們之前或許有過驚天動地的一晚  
 一晚關於「現金流」之財富桌遊 :smile:  
 歡迎您加入財富教育社團一起學習進步！
 
 :point_right: Facebook: [DreamWalker 夢行者之財富教育](https://www.facebook.com/groups/dreamwalker.wealth.education/)
+
+[回頂端](#top) 

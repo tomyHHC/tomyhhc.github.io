@@ -2,7 +2,7 @@
 layout: page
 title: Amway 安麗
 subtitle: 營養保健｜美容保養｜個人保養｜家用科技
-bigimg: /assets/break-limit.jpg
+bigimg: /assets/amwayFF/tree-dream.jpg
 image: /assets/amwayFF/coverphoto.jpg
 avatar: /assets/amwayFF/coverphoto.jpg
 ---

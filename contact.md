@@ -2,7 +2,7 @@
 layout: page
 title: 聯絡方式
 subtitle: Contact
-bigimg: /assets/one-piece.jpg
+bigimg: /assets/tomy-want.jpg
 ---
 
 您的來訪令寒舍蓬蓽生輝！  

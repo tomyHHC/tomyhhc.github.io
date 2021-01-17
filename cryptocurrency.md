@@ -2,14 +2,14 @@
 layout: page
 title: 虛擬貨幣
 subtitle: Cryptocurrency
-bigimg: /assets/break-limit.jpg
+bigimg: /assets/crypto/blockchain-wealth.jpg
 image: /assets/bitcoin.png
 avatar: /assets/bitcoin.png
 ---
 
 ## 虛擬貨幣 Cryptocurrency
 
-<b>【Tomy 小幫手】</b>  
+<b name="top">【Tomy 小幫手】</b>  
 [幣安 Binance](#幣安-binance)  
 [Coinbase](#coinbase)  
 [免費虛擬貨幣 FREE Cryptocurrency](#免費虛擬貨幣-free-cryptocurrency)  
@@ -25,13 +25,27 @@ avatar: /assets/bitcoin.png
 
 現在是「資訊化時代」，所有東西都朝向高科技發展，如「人工AI機器人」、「無人機」、「無人超市商店」、「無人旅館」，既然科技如此蓬勃發展，我們日常水準自然也會跟著進步；<b>既然「行動支付」已在美國普及（台灣慢慢推出），不難想像「虛擬貨幣」將很快取代笨重又麻煩的銀幣與紙鈔。</b>
 
+![crypto coins](/assets/crypto/crypto-coins.jpg)
+
 從1988～2008年中有人們不斷的嘗試開發使用加密協定與分佈式網路的去中心化虛擬貨幣．但是這個全自由化虛擬貨幣的夢想是在比特幣2009年時被發起的時候才真的實現．現在比特幣已經引起了全球人們的關注。
 
-虛擬貨幣是使用密碼學與分散式帳本的區塊鏈來創造出既安全、又匿名，也可追蹤自己表現的電子貨幣，當然，並不是所有虛擬貨幣都如此，只有高手才懂的分辨，何為「去中心化」（沒辦法受到政府或是財政機構直接的控制）以及具有投資潛力成長之虛擬貨幣．
+虛擬貨幣的用途真的很廣，  
+在未來幾年內，將會越來越生活化實用！
 
-虛擬貨幣最初創立目的，是為了讓人們在特定平台或場合內使用，包括支付、交易、轉賬等，突破過去傳統貨幣於交易時所受到限制，例如滙率變動、銀行手續費、跨境交易等，現在世界各處，如Line Pay合作商、MaiCoin(台灣首間虛擬貨幣實體交易門市)、CoinCake(高雄虛擬貨幣買蛋糕)、美國電商Shopify、房地產、普通餐廳、甚至非洲地區等，開始普遍使用虛擬貨幣交易，不論量大量小，最快幾秒鐘就可收到金額，甚至不用繁雜程序與手續費，金錢掌握在您手中不是政府手上，某些指定虛擬貨幣因其發行數量限制，其價值也將如同黃金一樣上漲．:moneybag:
+以現在的用途來說，最主要會有兩種，  
+**1.交易/匯提款**  
+當我們想將美金/歐元/英鎊轉換為台幣，通常會需要銀行當作中間人處理，難免會需要些手續費，而且時間有時會拖的久到想放炸彈！  
+當我們使用虛擬貨幣，這些都不是問題！我們可以隨時自己匯提款到指定目標，幾分鐘內，甚至幾秒鐘，完成交易！而且交易平台手續費極低！  
+**2.投資**  
+紙鈔不斷貶值；黃金與貨幣不斷升值！  
+這我不多說，只用一張分析圖表示：  
+2020年9月5號，US$9807.74，  
+2021年1月8號，US$41834.33，  
+125天，成長326.54%．  
 
-簡言之，虛擬貨幣之所以會有這樣的人氣，是因其應用廣泛自由，大大提升生活交易運用與便利、金錢自我掌控管理，更是投資手段之一有相當的增值空間，被稱為”有可能改變世界”的區塊鏈技術．:fire:
+![crypto coins](/assets/crypto/125-days-326-percent.jpg)
+
+[回頂端](#top) 
 
 ---
 
@@ -40,26 +54,51 @@ avatar: /assets/bitcoin.png
 我目前正在使用，也是最喜歡的交易平台 - 幣安 (世界規模第一大的虛擬貨幣交易平台)  
 My favorite trading platform: [Binance]
 
-活動：當您邀請更多朋友進來交易虛擬貨幣，您將得到每筆交易的最高40%佣金．  
+活動：當您使用我的推薦註冊，邀請更多朋友進來交易虛擬貨幣，您將得到每筆交易的最高40%佣金．  
 Activity：Earn up to 40% commission every time your friends make a trade on Binance.
 
-註冊帳戶：[Binance Register]
+推薦註冊帳戶：[Binance Register]
 
 ![binance-ref](/assets/crypto/binance-ref.jpg)
+
+[回頂端](#top) 
+
+---
+
+### Max
+
+對於台灣的朋友
+我會推薦您使用的平台 - [Max]（推薦「新手」使用）
+
+您可以於這平台使用台灣的信用銀行卡  
+同時這也是我找到手續費最低＆功能還不錯的虛擬貨幣交易中心！
+
+活動：當您使用我的推薦註冊，邀請更多朋友進來交易虛擬貨幣，您將得到每筆交易的最高20%佣金．  
+Activity：Earn up to 20% commission every time your friends make a trade on Max.
+
+推薦註冊帳戶：[Max Register]
+
+QR Code 註冊：  
+![Max QR Code](/assets/crypto/max-qr.jpg){:height="150px"}
+
+![max](/assets/crypto/max.jpg)
+
+[回頂端](#top) 
 
 ---
 
 ### Coinbase
 
-另一個我也正在使用的平台 - [Coinbase]（推薦新手使用 Suggestion for beginner）
-
+另一個我也正在使用的平台 - [Coinbase]（推薦「美國」新手使用 Suggestion for beginner）
 
 活動：當您「買」或「賣」$100美金的虛擬貨幣，你將得到$10免費比特幣．  
 Activity：When you buy or sell $100 of crypto, you get $10 in free Bitcoin.
 
-註冊帳戶：[Coinbase Register]
+推薦註冊帳戶：[Coinbase Register]
 
 ![coinbase-ref](/assets/crypto/coinbase.png)
+
+[回頂端](#top) 
 
 ---
 
@@ -69,8 +108,10 @@ Activity：When you buy or sell $100 of crypto, you get $10 in free Bitcoin.
 - [EOS]
 - [Stellar Lumens/XLM]
 
-每個免費虛擬貨幣名額只有4人  
-Each one has only 4 spots.
+每個免費虛擬貨幣名額最多只有4人，動作要快別錯過！  
+Each one has only 4 spots. First come first serve! :wink:
+
+[回頂端](#top) 
 
 ---
 
@@ -127,10 +168,32 @@ Each one has only 4 spots.
 </details>
 <p></p>
 
+虛擬貨幣是使用密碼學與分散式帳本的區塊鏈來創造出既安全、又匿名，也可追蹤自己表現的電子貨幣，當然，並不是所有虛擬貨幣都如此，只有高手才懂的分辨，何為「去中心化」（沒辦法受到政府或是財政機構直接的控制）以及具有投資潛力成長之虛擬貨幣．
+
+虛擬貨幣最初創立目的，是為了讓人們在特定平台或場合內使用，包括支付、交易、轉賬等，突破過去傳統貨幣於交易時所受到限制，例如滙率變動、銀行手續費、跨境交易等，現在世界各處，如Line Pay合作商、MaiCoin(台灣首間虛擬貨幣實體交易門市)、CoinCake(高雄虛擬貨幣買蛋糕)、美國電商Shopify、房地產、普通餐廳、甚至非洲地區等，開始普遍使用虛擬貨幣交易，不論量大量小，最快幾秒鐘就可收到金額，甚至不用繁雜程序與手續費，金錢掌握在您手中不是政府手上，某些指定虛擬貨幣因其發行數量限制，其價值也將如同黃金一樣上漲．:moneybag:
+
+簡言之，虛擬貨幣之所以會有這樣的人氣，是因其應用廣泛自由，大大提升生活交易運用與便利、金錢自我掌控管理，更是投資手段之一有相當的增值空間，被稱為”有可能改變世界”的區塊鏈技術．:fire:
+
+[回頂端](#top) 
+
 --- 
 
-若您對「虛擬貨幣買賣」或「投資」有興趣，歡迎隨時聯絡！ :smile:  
-（頁底連結or右上角之聯絡Contact頁面）
+還記得最上方的投資分析圖嘛？僅僅125天，讓您投資成長326%（請別再跟我說銀行每年的利息or一般的投資報酬率有多高），這還只是冰山表皮層次而已，只要把錢投資進去，每個人都可以做到．  
+
+我從2019年開始投資，我可以很肯定地跟你說，我用過更短的時間成長超過300%；若您像專家那樣地玩，您將看到並擁有意想不到的財富金礦！許多金融大咖，如世界首富-伊隆·馬斯克 Elon Musk，和多數大公司都已投入其中，
+
+所以，您的抉擇為何？
+
+若您對「虛擬貨幣買賣」或「投資」有興趣，  
+歡迎透過下方連結隨時與我聯絡！  
+讓我們一起在投資上取得財富勝利！:smiley: 
+
+<!--Button-->
+<div style="margin: auto; width: 100%; text-align: center;">
+<button  onclick="location.href='mailto:tomy830710@gmail.com';" class="button">Email</button>
+</div>
+
+[回頂端](#top) 
 
 [Binance]: https://www.binance.com/en
 [Binance Register]: https://www.binance.com/en/register?ref=38211385 
@@ -140,3 +203,6 @@ Each one has only 4 spots.
 [Orchid/OXT]: https://coinbase.com/earn/oxt/invite/c3fqkt75
 [EOS]: https://coinbase.com/earn/eos/invite/d8q013zn
 [Stellar Lumens/XLM]: https://coinbase.com/earn/xlm/invite/06w5q71j
+
+[Max]: https://max.maicoin.com
+[Max Register]: https://max.maicoin.com/signup?r=3ad5c99d

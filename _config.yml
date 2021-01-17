@@ -24,14 +24,14 @@ description: A cool handsome Taiwanese guy
 # List of links in the navigation bar
 navbar-links:
   About Me 介紹: "aboutme"
-  Eduucation 教育:
+  Education 教育:
   - 編夢者電腦教育: "dreamcoder"
   - 財富教育: "wealthEdu"
-  - 電腦手機實用技巧: "computer-skills"
+  - 科技實用技巧: "tech-skills"
   Opportunity 機會:
+  - Crypto 虛擬貨幣: "cryptocurrency"
   - Amway 安麗: "amway"
   - Riway 力匯: "riway"
-  - Crypto 虛擬貨幣: "cryptocurrency"
   Experience 經驗:
   - Legend 傳說: "legend"
   - Achieve 成就: "achieve"
@@ -84,12 +84,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: tomy830710@gmail.com
   facebook: tomyhhc
+  youtube: channel/UCz_uOmu2iDuQt86ZfCrIRCQ
   instagram: tomyhhc
-  youtube: channel/UChdUw8Xlo5LDy85R-OneKcg
 #  github: tomyhhc
   linkedin: tomyh
+  email: tomy830710@gmail.com
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali

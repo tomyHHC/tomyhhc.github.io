@@ -4,7 +4,7 @@ title:  在電視上同步手機螢幕
 subtitle: 不論任何手機品牌都能做到
 permalink: /hdmi_phone_tv_post
 tags: [dreamcoder]
-bigimg: /assets/DreamCoder/dc.computer.jpg
+bigimg: /assets/DreamCoder/channel.jpg
 image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 ---
@@ -13,9 +13,7 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 不用擔心，只要照著以下方法，  
 不管教課or分享資訊，  
 不管安卓or蘋果手機，  
-都能輕鬆容易做到！
-
-[申請預約]
+都能輕鬆容易做到！:smiley:
 
 ```
 產品：三合一HDMI台製傳輸線 $590
@@ -59,24 +57,28 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ---
 
-想成為強大電腦工程師？或學一技之長！？  
-歡迎追蹤「編夢者」，獲得更多科技/技巧/活動/娛樂之最新消息！  
-也歡迎您來參與編夢者線上座談會，我們讓您站在科技巨人上，眺望古今未來！:wink:
+![Dreamcoder post](/assets/DreamCoder/post.jpg)
+
+想學一技之長？或成為專業電腦工程師！？  
+歡迎隨時透過下方連結與我聯絡！:smiley:  
+歡迎追蹤「編夢者」，獲取最新消息/新科技分享/電腦教學影片！:wink:
 
 :point_right: 官方網站：[編夢者 DreamCoder]  
-:point_right: Faecbook：[編夢者 Facebook]  
+:point_right: Odysee 頻道：[編夢者 Odysee]  
+:point_right: Faecbook 臉書：[編夢者 Facebook]  
+:point_right: Instagram 追蹤： [編夢者 Instagram]  
+:point_right: Youtube 訂閱：[編夢者 Youtube]
+
 :point_right: Facebook 社團：[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]  
 :point_right: Facebook 社團：[編夢者-電腦工程師之駭客殿堂]  
-:point_right: Instagram： [編夢者 Instagram]  
-:point_right: Youtube：[編夢者 Youtube]
 
 
 [編夢者 DreamCoder]: https://tomyhhc.com
+[編夢者 Odysee]: https://odysee.com/@dreamcoder:f
 [編夢者 Facebook]: https://www.facebook.com/dreamcoder.tw/
 [編夢者 Instagram]: https://www.instagram.com/dreamcoder.tw/
 [編夢者 Youtube]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
 [編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]: https://www.facebook.com/groups/dc.computer.skills.community/ 
 [編夢者-電腦工程師之駭客殿堂]: https://www.facebook.com/groups/dreamcoder.hackers
-[申請預約]: https://forms.gle/FsdrCSUckApG15N19
 
 
