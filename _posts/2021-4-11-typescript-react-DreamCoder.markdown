@@ -16,7 +16,7 @@ React因其更為強大、簡潔、效能高、架構良好、易於維護、修
 當您學會TypeScript，也懂的如何使用React的套件，不僅能夠使用React來設計網站，更能夠使用此課堂所學習到的邏輯與知識，再搭配React Native去設計App，直接使用在iOS或Android等移動端客戶，一舉兩得！何樂而不為！？
 
 <div class="embed-video">
-<iframe src="https://www.youtube.com/embed/cHeyZgFKAtQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width= 50%; height= 100%;" src="https://www.youtube.com/embed/cHeyZgFKAtQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 > 點此查看[課程詳情]
