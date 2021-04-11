@@ -3,7 +3,7 @@ layout: post
 title:  Google雲端硬碟之五強大檔案介紹
 subtitle: 善用每一種檔案強大功能
 permalink: /google_drive_files_intro_post
-tags: [dreamcoder]
+tags: [dreamcoder, education]
 bigimg: /assets/DreamCoder/channel.jpg
 image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
@@ -155,34 +155,30 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 [回頂端](#top)
 
-希望以上的分享有幫助到您！:smiley:  
-若有任何問題～歡迎使用網頁最下方之連結～與我聯絡哦！:wink:
+希望以上分享對你有幫助！  
+若有任何問題，歡迎使用下方連結與我聯絡哦！
 
----
+<!--Button-->
+<div style="margin: auto; width: 100%; text-align: center;">
+<button  onclick="location.href='https://dreamcoder.online/free-course-appointment';" class="button">免費諮詢</button>
+</div>
 
-![Dreamcoder post](/assets/DreamCoder/post.jpg)
+歡迎追蹤『編夢者』  
+不錯過最新文章/影片教學！:wink:
 
-想學一技之長？或成為專業電腦工程師！？  
-歡迎隨時透過下方連結與我聯絡！:smiley:  
-歡迎追蹤「編夢者」，獲取最新消息/新科技分享/電腦教學影片！:wink:
-
-:point_right: 官方網站：[編夢者 DreamCoder]  
-:point_right: Odysee 頻道：[編夢者 Odysee]  
-:point_right: Faecbook 臉書：[編夢者 Facebook]  
-:point_right: Instagram 追蹤： [編夢者 Instagram]  
-:point_right: Youtube 訂閱：[編夢者 Youtube]
-
+:fire: 官方網站：[編夢者 DreamCoder]  
+:point_right: Odysee：[編夢者 Odysee]  
+:point_right: Faecbook：[編夢者粉絲專頁]  
+:point_right: Youtube：[編夢者頻道]  
+:point_right: Instagram：[追蹤編夢者]  
 :point_right: Facebook 社團：[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]  
-:point_right: Facebook 社團：[編夢者-電腦工程師之駭客殿堂]  
 
 
-[編夢者 DreamCoder]: https://tomyhhc.com
+[編夢者 DreamCoder]: https://dreamcoder.online
 [編夢者 Odysee]: https://odysee.com/@dreamcoder:f
-[編夢者 Facebook]: https://www.facebook.com/dreamcoder.tw/
-[編夢者 Instagram]: https://www.instagram.com/dreamcoder.tw/
-[編夢者 Youtube]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
+[編夢者粉絲專頁]: https://www.facebook.com/dreamcoder.tw/
+[追蹤編夢者]: https://www.instagram.com/dreamcoder.tw/
+[編夢者頻道]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
 [編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]: https://www.facebook.com/groups/dc.computer.skills.community/ 
-[編夢者-電腦工程師之駭客殿堂]: https://www.facebook.com/groups/dreamcoder.hackers
-[申請預約]: https://forms.gle/FsdrCSUckApG15N19
 
 

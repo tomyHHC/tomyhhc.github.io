@@ -3,7 +3,7 @@ layout: post
 title: 台灣最夯的電腦程式語言 Python
 subtitle: Scratch之後學什麼｜新手必看
 permalink: /why_python
-tags: [dreamcoder, python]
+tags: [dreamcoder, python, education, education]
 bigimg: /assets/DreamCoder/channel.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
 image: /assets/DreamCoder/pythonlogo.jpg
@@ -19,11 +19,11 @@ image: /assets/DreamCoder/pythonlogo.jpg
 <iframe src="https://www.youtube.com/embed/JM739CGJYUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[文章教學連結]
+> 點此查看[文章教學連結]
 
---- 
+---
 
-#### 推薦影片
+#### 人氣推薦
 
 * [更容易進”台清交成”的方法!? 自學程式設計? 大多數人都還不知道｜APCS 程式檢定｜108課綱｜資工資管系｜電腦工程師]
 * [觀看創新5G科技｜昭尋英雄人才｜為何非電腦課程而不只是英文數學]
@@ -35,39 +35,31 @@ image: /assets/DreamCoder/pythonlogo.jpg
 * [世界正流行的谷歌線上教室]｜新手導覽｜網站平台
 * [Zoom在Line打不開連結！？]｜教你秘訣｜絕對暢通無阻
 
-希望以上的分享有幫助到您！  
-若有任何問題，歡迎使用網頁最下方之連結與我聯絡哦！:wink:
-
----
-
-![Dreamcoder post](/assets/DreamCoder/post.jpg)
-
-想學一技之長？或成為專業電腦工程師！？  
-歡迎隨時透過下方連結與我聯絡！:smiley:  
-歡迎追蹤「編夢者」，獲取最新消息/新科技分享/電腦教學影片！:wink:
+希望以上分享對你有幫助！  
+若有任何問題，歡迎使用下方連結與我聯絡哦！
 
 <!--Button-->
 <div style="margin: auto; width: 100%; text-align: center;">
-<button  onclick="location.href='https://tomyhhc.com/free-course-appointment';" class="button">免費諮詢</button>
+<button  onclick="location.href='https://dreamcoder.online/free-course-appointment';" class="button">免費諮詢</button>
 </div>
 
-:point_right: 官方網站：[編夢者 DreamCoder]  
-:point_right: Odysee 頻道：[編夢者 Odysee]  
-:point_right: Faecbook 臉書：[編夢者 Facebook]  
-:point_right: Instagram 追蹤： [編夢者 Instagram]  
-:point_right: Youtube 訂閱：[編夢者 Youtube]
+歡迎追蹤『編夢者』  
+不錯過最新文章/影片教學！:wink:
 
+:fire: 官方網站：[編夢者 DreamCoder]  
+:point_right: Odysee：[編夢者 Odysee]  
+:point_right: Faecbook：[編夢者粉絲專頁]  
+:point_right: Youtube：[編夢者頻道]  
+:point_right: Instagram：[追蹤編夢者]  
 :point_right: Facebook 社團：[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]  
-:point_right: Facebook 社團：[編夢者-電腦工程師之駭客殿堂]  
 
 
-[編夢者 DreamCoder]: https://tomyhhc.com
+[編夢者 DreamCoder]: https://dreamcoder.online
 [編夢者 Odysee]: https://odysee.com/@dreamcoder:f
-[編夢者 Facebook]: https://www.facebook.com/dreamcoder.tw/
-[編夢者 Instagram]: https://www.instagram.com/dreamcoder.tw/
-[編夢者 Youtube]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
+[編夢者粉絲專頁]: https://www.facebook.com/dreamcoder.tw/
+[追蹤編夢者]: https://www.instagram.com/dreamcoder.tw/
+[編夢者頻道]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
 [編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]: https://www.facebook.com/groups/dc.computer.skills.community/ 
-[編夢者-電腦工程師之駭客殿堂]: https://www.facebook.com/groups/dreamcoder.hackers
 
 [文章教學連結]: https://tomyhhc.com/實用電腦手機技巧/【python-基礎入門系列】台灣最夯的電腦程式語言｜scratch
 [更容易進”台清交成”的方法!? 自學程式設計? 大多數人都還不知道｜APCS 程式檢定｜108課綱｜資工資管系｜電腦工程師]: {{ site.url }}/why_apcs

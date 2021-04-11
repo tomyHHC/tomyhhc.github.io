@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 科技實用技巧
+title: 科技實用技巧教學
 subtitle: 電腦教育
 bigimg: /assets/DreamCoder/channel.jpg
 image: /assets/DreamCoder/dreamcoder.jpg
@@ -13,19 +13,18 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 [電腦](#電腦)  
 [手機](#手機)  
 [科技](#科技)  
+[DreamCoder 編夢者電腦教育](#dreamcoder-編夢者電腦教育)
 
-![Dreamcoder logo](/assets/DreamCoder/dreamcoder.jpg){:height="200px"}
+--- 
 
-```
-願景: 
-在資訊時代之江湖，讓每一位電腦編程之夢想家，有一席之地 ！  
+![Dreamcoder post](/assets/DreamCoder/post.jpg)
 
-使命: 
-以無私的愛與美好榜樣，傳授編程之智慧與正確之心態，
-激發潛能、賦予力量，準備好迎接夢想未來、快樂人生、光明成功！
-```
+<!--Button-->
+<div style="margin: auto; width: 100%; text-align: center;">
+<button  onclick="location.href='https://dreamcoder.online/free-course-appointment';" class="button">免費諮詢</button>
+</div>
 
-[免費諮詢連結]
+[回頂端](#top) 
 
 ---
 
@@ -70,31 +69,36 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ---
 
-### 台灣首家『全線上』即時互動視訊電腦教育
+### DreamCoder 編夢者電腦教育
 
-![Dreamcoder post](/assets/DreamCoder/post.jpg)
+我們不僅喜愛電腦高科技，同時也熱愛助人，我們與各領域電腦專家合作，合作組成專業導師團隊，採用獨創新『江湖實境』＆『遊戲化』教育系統，提供全線上電腦視訊課程！
 
-我們不僅喜愛電腦高科技，同時也熱愛助人，十分樂意與您分享我們所擁有的知識和經驗！我們與各界擁有實際經驗之電腦軟體開發專家合作，一同合作組成專業導師團隊，創造「全線上」創新又具啟發成長性之「江湖實境」與「遊戲化」教育系統！
+編夢者提供各專業領域的電腦課程，從最基礎的電腦語言觀念技巧，到「網頁開發」、「App開發」、「遊戲開發」等，帶您一步一步熟悉電腦虛擬世界！
 
-編夢者提供各式各樣的電腦課程，從最基礎的電腦語言觀念技巧認識，到製作「網站」、「App」、「遊戲」、「資料庫」等等，帶您一步一步熟悉電腦虛擬世界及未來科技江湖！
+> 點此查看[編夢者電腦教育]
 
-若您想瞭解更多資訊，學一技之長，或成為專業電腦工程師，歡迎追蹤『[編夢者 DreamCoder]』，我們願為您傳遞更多科技與電腦編程活動之消息！:wink:
+若想瞭解更多資訊，學一技之長，或成為專業電腦工程師，歡迎追蹤編夢者，可透過下方連結與我們聯絡！
 
 <!--Button-->
 <div style="margin: auto; width: 100%; text-align: center;">
-<button  onclick="location.href='https://tomyhhc.com/free-course-appointment';" class="button">免費諮詢</button>
+<button  onclick="location.href='https://dreamcoder.online/free-course-appointment';" class="button">免費諮詢</button>
 </div>
 
-:point_right: 官方網站：[編夢者 DreamCoder]  
-:point_right: Faecbook：[編夢者 Facebook]  
+歡迎追蹤『編夢者』  
+不錯過最新文章/影片教學！:wink:
+
+:fire: 官方網站：[編夢者 DreamCoder]  
+:point_right: Odysee：[編夢者 Odysee]  
+:point_right: Faecbook：[編夢者粉絲專頁]  
+:point_right: Youtube：[編夢者頻道]  
+:point_right: Instagram：[追蹤編夢者]  
 :point_right: Facebook 社團：[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]  
-:point_right: Facebook 社團：[編夢者-電腦工程師之駭客殿堂]  
-:point_right: Instagram： [編夢者 Instagram]  
-:point_right: Youtube：[編夢者 Youtube]
 
 [回頂端](#top) 
 
 
+
+[編夢者電腦教育]: {{ site.url }}/dreamcoder
 [在電視上同步手機螢幕]: {{ site.url }}/hdmi_phone_tv_post
 [Google雲端硬碟之五強大檔案介紹]: {{ site.url }}/google_drive_files_intro_post
 [台灣最夯的電腦程式語言 Python]: {{ site.url }}/why_python
@@ -110,11 +114,9 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 [【Office/Excel】文字處理整人招術！？ EP.4]: {{ site.url }}/excel_ep4
 [【Office/Excel】文字處理高階技巧 & 綜合函式運算 EP.5]: {{ site.url }}/excel_ep5
 
-[編夢者 DreamCoder]: https://tomyhhc.com
-[編夢者 Facebook]: https://www.facebook.com/dreamcoder.tw/
-[編夢者 Instagram]: https://www.instagram.com/dreamcoder.tw/
-[編夢者 Youtube]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
+[編夢者 DreamCoder]: https://dreamcoder.online
+[編夢者 Odysee]: https://odysee.com/@dreamcoder:f
+[編夢者粉絲專頁]: https://www.facebook.com/dreamcoder.tw/
+[追蹤編夢者]: https://www.instagram.com/dreamcoder.tw/
+[編夢者頻道]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
 [編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]: https://www.facebook.com/groups/dc.computer.skills.community/ 
-[編夢者-電腦工程師之駭客殿堂]: https://www.facebook.com/groups/dreamcoder.hackers
-
-[免費諮詢連結]: https://tomyhhc.com/free-course-appointment
