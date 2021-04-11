@@ -69,6 +69,18 @@
 <lastmod>2021-04-10T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/google-form</loc>
+<lastmod>2021-04-11T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/python-game-course</loc>
+<lastmod>2021-04-11T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/typescript-react-course</loc>
+<lastmod>2021-04-11T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/world-trend</loc>
 <lastmod>2021-04-11T00:00:00+00:00</lastmod>
 </url>
@@ -134,5 +146,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page5/</loc>
 </url>
 </urlset>

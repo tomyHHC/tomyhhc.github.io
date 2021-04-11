@@ -30,8 +30,11 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ### 程式設計
 
+* [編夢者-最熱門的電腦課程]
 * [台灣最夯的電腦程式語言 Python]｜Scratch之後學什麼｜新手必看
 * [更容易進”台清交成”的方法!? 自學程式設計?] 大多數人都不知道｜APCS 程式檢定｜108課綱｜資工資管系｜電腦工程師
+* [【TypeScript】零基礎入門｜React 網頁開發]
+* [【Python】零基礎入門｜遊戲設計]
 
 ---
 
@@ -49,6 +52,7 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 ### 電腦
 
+* [【Google表單】兩大必學秘訣技巧]｜自動關閉表單｜限制回應人數
 * [Google雲端硬碟之五強大檔案介紹]
 * [世界正流行的谷歌線上教室]｜新手導覽｜網站平台
 
@@ -96,7 +100,15 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 [回頂端](#top) 
 
+[編夢者 DreamCoder]: https://dreamcoder.online
+[編夢者 Odysee]: https://odysee.com/@dreamcoder:f
+[編夢者粉絲專頁]: https://www.facebook.com/dreamcoder.tw/
+[追蹤編夢者]: https://www.instagram.com/dreamcoder.tw/
+[編夢者頻道]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
+[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]: https://www.facebook.com/groups/dc.computer.skills.community/ 
 
+[【TypeScript】零基礎入門｜React 網頁開發]: {{ site.url }}/typescript-react-course
+[【Python】零基礎入門｜遊戲設計]: {{ site.url }}/python-game-course
 
 [編夢者電腦教育]: {{ site.url }}/dreamcoder
 [在電視上同步手機螢幕]: {{ site.url }}/hdmi_phone_tv_post
@@ -107,6 +119,7 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 
 [Zoom在Line打不開連結！？]: {{ site.url }}/zoom
 [世界正流行的谷歌線上教室]: {{ site.url }}/google_classroom
+[【Google表單】兩大必學秘訣技巧]: {{ site.url }}/google-form
 
 [【Office/Excel】專業自動化清單 EP.1]: {{ site.url }}/excel_ep1
 [【Office/Excel】資料太多看的好辛苦？ EP.2]: {{ site.url }}/excel_ep2
@@ -114,9 +127,4 @@ avatar: /assets/DreamCoder/dreamcoder.jpg
 [【Office/Excel】文字處理整人招術！？ EP.4]: {{ site.url }}/excel_ep4
 [【Office/Excel】文字處理高階技巧 & 綜合函式運算 EP.5]: {{ site.url }}/excel_ep5
 
-[編夢者 DreamCoder]: https://dreamcoder.online
-[編夢者 Odysee]: https://odysee.com/@dreamcoder:f
-[編夢者粉絲專頁]: https://www.facebook.com/dreamcoder.tw/
-[追蹤編夢者]: https://www.instagram.com/dreamcoder.tw/
-[編夢者頻道]: https://www.youtube.com/channel/UCz_uOmu2iDuQt86ZfCrIRCQ
-[編夢者-手機電腦技巧 使用疑難雜症 研討之殿堂]: https://www.facebook.com/groups/dc.computer.skills.community/ 
+[編夢者-最熱門的電腦課程]: https://dreamcoder.online/most-popular-course/

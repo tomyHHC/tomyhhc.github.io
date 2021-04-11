@@ -3,7 +3,7 @@ layout: post
 title:  世界趨勢與重視
 subtitle: 現代不可或缺的必備技巧
 permalink: /world-trend
-tags: [business, dreamcoder]
+tags: [business, dreamcoder, education]
 bigimg: /assets/DreamCoder/channel.jpg
 image: /assets/DreamCoder/dreamcoder.jpg
 avatar: /assets/DreamCoder/dreamcoder.jpg
