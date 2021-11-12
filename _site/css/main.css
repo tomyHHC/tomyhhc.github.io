@@ -836,9 +836,11 @@ td.gutter {
 }
 
 .contact-box form #info-msg {
+    border: none;
+    outline: none;
     margin-top: 5px;
     border-bottom: none;
-    border-style: groove;
+    /* border-style: groove; */
     width: 80%;
     height: 150px;
 }
