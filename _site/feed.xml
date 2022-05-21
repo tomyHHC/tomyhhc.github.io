@@ -7,6 +7,60 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>線上亂數產生器</title>
+        <description>
+          簡單自動產生自定義長度、大寫小寫英文、數字、字元符號的字串 - 
+          
+
+
+
+    
+    
+
+亂數當中包含「數字（0123456789）」
+
+
+
+    
+    
+
+亂數當中包含「大寫英文（ABCDEFGHIJKLMNOPQRSTUVWXTZ）」
+
+
+
+    
+    
+
+亂數當中包含「小寫英文（abcdefghijklmnopqrstuvwxyz）」
+
+
+
+    
+    
+
+於亂數的開頭加上數次（1. 2. …）
+
+
+    
+        亂數產生長度
+        
+        亂數產生數量
+        
+        產生亂數
+        
+    
+
+
+
+
+
+        </description>
+        <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/random-string-generator</link>
+        <guid isPermaLink="true">http://localhost:4000/random-string-generator</guid>
+      </item>
+    
+      <item>
         <title>世界趨勢與重視</title>
         <description>
           現代不可或缺的必備技巧 - 
@@ -807,17 +861,6 @@ Magic！此時看電視螢幕，你將看到奇蹟！
         <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/why-DreamCoder</link>
         <guid isPermaLink="true">http://localhost:4000/why-DreamCoder</guid>
-      </item>
-    
-      <item>
-        <title>MentorPro</title>
-        <description>
-          A Chance to Financial Freedom - 
-          Are you struggling with money? Have you ever been taught management of money? Are you worrying about getting a good job? Have you even thought about when to retire? What about how you earn money if you were sick and cannot work? After all, the essential point is how you...
-        </description>
-        <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/mentorPro_post</link>
-        <guid isPermaLink="true">http://localhost:4000/mentorPro_post</guid>
       </item>
     
   </channel>
